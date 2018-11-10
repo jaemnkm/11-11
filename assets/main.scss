@@ -1,0 +1,410 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import 'tale';
+@font-face {
+    font-family: Fabrik-Regular;
+    src: url("{{site.baseurl}}/assets/fonts/fabrik_n.otf");
+}
+
+
+/******
+General
+******/
+main{
+  max-width: none;
+  width: 100%;
+  overflow-x:hidden;
+
+}
+.container-fluid{
+  max-width: none;
+}
+body{
+  max-width: none;
+}
+h1 h2 h3 h4 {
+
+}
+h1{
+  font-size: 32px;
+}
+h2{
+  font-family: Fabrik-Regular;
+  font-size: 24px;
+  color: #000000;
+
+}
+p{
+  font-size: 18px;
+  font-family: 'Work Sans', sans-serif;
+}
+.collection-list{
+  list-style-type: none;
+}
+
+.list-1{
+  font-family: 'Work Sans';
+  font-size: 24px;
+  color: #000000;
+  list-style-type: none;
+  columns: 1;
+  -webkit-columns: 1;
+  -moz-columns: 1;
+}
+
+.list-2{
+  font-family:'Work Sans';
+  font-size: 24px;
+  color: #000000;
+  list-style-type: none;
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+
+}
+
+.list-3{
+  font-family: 'Work Sans';
+  font-size: 24px;
+  color: #000000;
+  list-style-type: none;
+  columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;
+}
+.page-section-head{
+  padding: 5vh 0 5vh 0 ;
+  // background: #EEF7F8;
+  background-image: url("{{site.baseurl}}/assets/section-head.png");
+  h1{
+    font-family: Fabrik-Regular;
+    font-size: 32px;
+    color: #000000;
+    text-align: center;
+  }
+  p{
+    font-family: 'Work Sans';
+    font-size: 24px;
+    color: #000000;
+    text-align: center;
+  }
+  .line-section{
+    border: 5px solid #000000;
+  }
+  a{
+    font-family: 'Work Sans';
+    font-size: 18px;
+    color: #35D1BF;
+  }
+}
+.page-section{
+  text-decoration: none;
+  justify-content: center;
+  h2{
+    font-family: Fabrik-Regular;
+    font-size: 32px;
+    color: #000000;
+    text-align: left;
+    padding: 0 0 0 0;
+  }
+  p{
+    font-family: 'Work Sans';
+    font-size: 24px;
+    color: #000000;
+  }
+  ul{
+    -webkit-padding-start:0;
+  }
+  li{
+    font-family: 'Work Sans';
+    font-size: 24px;
+    color: #000000;
+    text-decoration: none;
+  }
+  a{
+    color: #000000;
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+  }
+
+  a:any-link {
+    text-decoration: none !important;
+  }
+
+a::after {
+  position: absolute;
+  left: 0;
+  content: '';
+  width: 100%;
+  height: 2px;
+  background: #000;
+  bottom: -2px;
+  transform: scale(0, 1);
+  transition: transform .3s;
+  transform-origin: left top;
+}
+a:hover::after {
+  transform: scale(1, 1);
+}
+  .space{
+    padding: 5vh 0 0 0 ;
+  }
+}
+
+.post-section-head{
+  padding: 15vh 20vw 0vh 20vw;
+  h1{
+    font-family: Fabrik-Regular;
+    font-size: 32px;
+    color: #000000;
+    text-align: left;
+  }
+  p{
+    font-family: 'Work Sans';
+    font-size: 24px;
+    color: #000000;
+    text-align: left
+  }
+  .line-section{
+    border: 5px solid #000000;
+  }
+  a{
+    font-family: 'Work Sans';
+    font-size: 18px;
+    color: #35D1BF;
+  }
+}
+.post-section{
+  text-decoration: none;
+  padding: 5vh 20vw 0 20vw;
+
+  h2{
+    font-family: Fabrik-Regular;
+    font-size: 24px;
+    color: #000000;
+    text-align: left;
+    padding: 0 0 0 0;
+  }
+  h3{
+    text-align: left;
+    font-size:20px;
+  }
+
+  p{
+    font-size: 18px;
+  }
+  li{
+    font-family: 'Work Sans';
+    font-size: 24px;
+    color: #000000;
+    text-decoration: none;
+    padding-bottom: 1vh;
+  }
+  a{
+    color: #000000;
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+  }
+
+  a:any-link {
+    text-decoration: none !important;
+  }
+
+a::after {
+  position: absolute;
+  left: 0;
+  content: '';
+  width: 100%;
+  height: 2px;
+  background: #000;
+  bottom: -2px;
+  transform: scale(0, 1);
+  transition: transform .3s;
+  transform-origin: left top;
+}
+a:hover::after {
+  transform: scale(1, 1);
+}
+  // .space{
+  //   padding: 5vh 0 0 0 ;
+  // }
+}
+
+.nav{
+  a{
+    color: #000;
+  }
+}
+.nav-section{
+    background: #F7FBFB;
+  .nav-title{
+    font-family: Fabrik-Regular;
+    font-size: 32px;
+    color: #000000;
+    text-align: left;
+  }
+  .nav-links{
+  font-family: Fabrik-Regular;
+  font-size: 18px;
+  color: #000000;
+  text-align: left;
+  }
+  li{
+    padding: 0 0 0 0;
+  }
+
+}
+
+/******
+Profile
+******/
+
+
+
+
+/******
+Profile
+******/
+
+
+
+
+
+/******
+People
+******/
+
+
+
+
+
+
+
+
+/******
+Issue
+******/
+.attribute{
+  font-size: 18px
+}
+.segmet-left{
+  background-color: #555;
+
+}
+.issue-section-head{
+  background: #EEF7F8;
+
+
+  h1{
+    font-family: Fabrik-Regular;
+    font-size: 32px;
+    color: #000000;
+    text-align: left;
+    padding-top: 5vh;
+    padding-left: 5vw;
+  }
+  p{
+    font-family: 'Work Sans';
+    font-size: 24px;
+    color: #000000;
+    text-align: left;
+    padding-left: 4vw;
+    padding-right: 4vw;
+  }
+  .line-section{
+    border: 5px solid #000000;
+  }
+  a{
+    font-family: 'Work Sans';
+    font-size: 18px;
+    color: #35D1BF;
+  }
+}
+.issue-section{
+  text-decoration: none;
+
+  h2{
+    font-family: Fabrik-Regular;
+    font-size: 32px;
+    color: #000000;
+    text-align: left;
+    padding: 0 0 0 0;
+  }
+  p{
+    font-family: 'Work Sans';
+    font-size: 18px;
+  }
+  li{
+
+    font-family: 'Work Sans';
+    font-size: 24px;
+    color: #000000;
+    text-decoration: none;
+  }
+  .attribute{
+    text-decoration: none;
+  }
+  a{
+    font-size: 24px;
+    font-family: 'Work Sans';
+    color: #000000;
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+  }
+  a:any-link {
+    text-decoration: none !important;
+  }
+
+a::after {
+  position: absolute;
+  left: 0;
+  content: '';
+  width: 100%;
+  height: 2px;
+  background: #000;
+  bottom: -2px;
+  transform: scale(0, 1);
+  transition: transform .3s;
+  transform-origin: left top;
+}
+a:hover::after {
+  transform: scale(1, 1);
+}
+  .space{
+    padding: 1vh 0 0 0 ;
+  }
+
+}
+
+
+/***********
+Landing Page
+***********/
+.r-fluid{
+    white-space: nowrap;
+    height: 90vh;
+    flex-wrap: nowrap;
+    overflow: auto;
+    .row{
+      flex-wrap: nowrap;
+    }
+    .col-6{
+      display: inline-block;
+      flex: 0 0 80%;
+      padding-left: 20vw;
+
+    }
+}
+.landing-space{
+padding: 20vh 0 0 ;
+
+}
+// .row-fluid .col-lg-3{
+//
+//     max-width: 60vw;
+// }
