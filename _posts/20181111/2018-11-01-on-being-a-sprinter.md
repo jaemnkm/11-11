@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "On Being a Sprinrer"
+title: "On Being a Sprinter"
 author: "Katherine Min"
 authorURL: /katherine-min/
 tag: 20181111
 categories: 2018fall
-permalink: /on-being-a-sprinrer/
+permalink: /on-being-a-sprinter/
 ---
 
 <br><br>
 <br><br>
-<img style="align:center; width:20vw;" src="{{site.baseurl}}/assets/20181111/runner.png" alt="">
+<img style="display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/runner.png" alt="">
 <br><br>
 
-Watching Usain Bolt in the 100-meter dash at the 2016 Rio Olympics, got me thinking. I’ve always been fond of sorting the world into my own odd Aristotelian categories. For example, _Iliad_ people v. _Odyssey_ people. Do you see life as a battle, or as a journey? Novelist or short story writer. Is your temperament better suited for the rhythms of real life, or for the stop-time of the transcendent moment? Heart v. Head Artists. Is your work a sincere attempt to communicate something about the human condition, or is it an in-joke, a you-get-it-or-you-don’t-and-fuck-you-if-you-don’t provocation? Of course, the categories are binary, and clearly rigged according to my own tastes and proclivities, but I think they can illuminate something interesting about character. The way we define, and display, ourselves.
+Watching Usain Bolt in the 100-meter dash at the 2016 Rio Olympics got me thinking. I’ve always been fond of sorting the world into my own odd Aristotelian categories. For example, _Iliad_ people v. _Odyssey_ people. Do you see life as a battle, or as a journey? Novelist or short story writer. Is your temperament better suited for the rhythms of real life, or for the stop-time of the transcendent moment? Heart v. Head Artists. Is your work a sincere attempt to communicate something about the human condition, or is it an in-joke, a you-get-it-or-you-don’t-and-fuck-you-if-you-don’t provocation? Of course, the categories are binary, and clearly rigged according to my own tastes and proclivities, but I think they can illuminate something interesting about character. The way we define, and display, ourselves.
 <br>
 <br>
 I realized, in the 9.80 seconds that it took Usain Bolt to win the gold medal in Brazil, that I have always been a sprinter, (metaphorically, of course; it would take me 9.80 _minutes_, probably, to go 100 meters). Marathon runners need to marshal their energies, to regulate, to modify, and to think ahead. There’s no time for that in a sprint, beyond a split-second, maybe; otherwise it’s just full-out, flat-out, the end.

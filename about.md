@@ -2,7 +2,7 @@
 layout: about
 title: "About"
 permalink: /about/
-description: 11.11 is a journal featuring noted, invited contributors in poetry, nonfiction, fiction, fine arts, and architecture and design. 11.11 brings consequential art and writing to a global audience, interrogating the consecution of art and culture and inviting reflection on creativity in its manifest forms in the 21st century.
+description: 
 nav-local-1-link:
 nav-local-1-name:
 nav-local-2-link:
