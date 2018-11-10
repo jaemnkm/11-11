@@ -5,7 +5,7 @@ author: "Tongo Eisen-Martin"
 authorURL: /tongo-eisen-martin/
 tag: 20181111
 categories: 2018fall
-permalink: /fish-with-ambition-to-become-the-river/
+permalink: /Fish-With-Ambition-to-Become-the-River/
 ---
 
 <br><br>

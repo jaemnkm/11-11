@@ -5,7 +5,7 @@ author: "Laura Mullen"
 authorURL: /laura-mullen/
 tag: 20181111
 categories: 2018fall
-permalink: /elsie-doesnt-mind/
+permalink: /Elsie-Doesnt-Mind/
 ---
 
 <br><br>

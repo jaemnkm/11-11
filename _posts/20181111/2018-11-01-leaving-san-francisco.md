@@ -5,7 +5,7 @@ author: "Lorelei Lee"
 authorURL: /lorelei-lee/
 tag: 20181111
 categories: 2018fall
-permalink: /leaving-san-francisco/
+permalink: /Leaving-San-Francisco/
 ---
 
 <br><br>

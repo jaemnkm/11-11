@@ -5,7 +5,7 @@ author: "Tongo Eisen-Martin"
 authorURL: /tongo-eisen-martin/
 tag: 20181111
 categories: 2018fall
-permalink: /many-does-to-go-or-turns-the-pen/
+permalink: /Many-Does-To-Go-Or-Turns-The-Pen/
 ---
 
 <br><br>

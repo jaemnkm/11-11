@@ -5,7 +5,7 @@ author: "Miranda Mellis"
 authorURL: /miranda-mellis/
 tag: 20181111
 categories: 2018fall
-permalink: /the-imperceptible-utopia/
+permalink: /The-Imperceptible-Utopia/
 ---
 
 <br><br>

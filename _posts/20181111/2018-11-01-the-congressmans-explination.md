@@ -5,7 +5,7 @@ author: "John Yau"
 authorURL: /john-yau/
 tag: 20181111
 categories: 2018fall
-permalink: /the-congressmans-explination/
+permalink: /The-Congressmans-Explanation/
 ---
 
 <br><br>

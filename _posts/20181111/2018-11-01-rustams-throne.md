@@ -5,7 +5,7 @@ author: "Christopher Merrill"
 authorURL: /christopher-merrill/
 tag: 20181111
 categories: 2018fall
-permalink: /rustams-throne/
+permalink: /Rustams-Throne/
 ---
 
 <br><br>

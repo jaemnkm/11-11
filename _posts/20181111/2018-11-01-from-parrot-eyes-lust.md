@@ -5,7 +5,7 @@ author: "Ron Silliman"
 authorURL: /ron-silliman/
 tag: 20181111
 categories: 2018fall
-permalink: /from-parrot-eyes-lust/
+permalink: /from-Parrot-Eyes-Lust/
 ---
 
 <br><br>

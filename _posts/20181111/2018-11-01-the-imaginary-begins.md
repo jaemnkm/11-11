@@ -5,7 +5,7 @@ author: "Laura Mullen"
 authorURL: /laura-mullen/
 tag: 20181111
 categories: 2018fall
-permalink: /the-imaginary-begins/
+permalink: /The-Imaginary-Begins/
 ---
 
 <br><br>

@@ -5,7 +5,7 @@ author: "Dodie Bellamy"
 authorURL: /dodie-bellamy/
 tag: 20181111
 categories: 2018fall
-permalink: /the-violence-of-the-image/
+permalink: /The-Violence-of-the-Image/
 ---
 
 <br><br>

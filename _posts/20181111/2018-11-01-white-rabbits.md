@@ -5,7 +5,7 @@ author: "May-lee Chai"
 authorURL: /may-lee-chai/
 tag: 20181111
 categories: 2018fall
-permalink: /white-rabbits/
+permalink: /White-Rabbits/
 ---
 
 <br><br>

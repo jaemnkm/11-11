@@ -5,7 +5,7 @@ author: "Katherine Min"
 authorURL: /katherine-min/
 tag: 20181111
 categories: 2018fall
-permalink: /on-being-a-sprinter/
+permalink: /On-Being-a-Sprinter/
 ---
 
 <br><br>

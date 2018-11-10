@@ -5,7 +5,7 @@ author: "Sheila Heiti"
 authorURL: /sheila-heiti/
 tag: 20181111
 categories: 2018fall
-permalink: /literature-against-anxiety/
+permalink: /Literature-Against-Anxiety/
 ---
 
 <br><br>

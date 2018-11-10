@@ -5,7 +5,7 @@ author: "Miranda Mellis"
 authorURL: /miranda-mellis/
 tag: 20181111
 categories: 2018fall
-permalink: /to-not-become-a-pillar-of-salt/
+permalink: /To-Not-Become-a-Pillar-of-Salt/
 ---
 
 <br><br>

@@ -5,7 +5,7 @@ author: "John Yau"
 authorURL: /john-yau/
 tag: 20181111
 categories: 2018fall
-permalink: /the-presidents-telegram-3/
+permalink: /The-Presidents-Telegram-3/
 ---
 
 <br><br>

@@ -5,7 +5,7 @@ author: "Miranda Mellis"
 authorURL: /miranda-mellis/
 tag: 20181111
 categories: 2018fall
-permalink: /stuff-my-stalker-has-ordered-for-me-online/
+permalink: /Stuff-My-Stalker-Has-Ordered-for-Me-Online/
 ---
 
 <br><br>

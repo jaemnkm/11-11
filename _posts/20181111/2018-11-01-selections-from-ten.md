@@ -5,7 +5,7 @@ author: "Jennifer Firestone"
 authorURL: /jennifer-firestone/
 tag: 20181111
 categories: 2018fall
-permalink: /selections-from-ten/
+permalink: /Selections-from-Ten/
 ---
 
 <br><br>

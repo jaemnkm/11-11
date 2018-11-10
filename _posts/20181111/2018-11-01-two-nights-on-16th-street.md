@@ -5,7 +5,7 @@ author: "Tongo Eisen-Martin"
 authorURL: /tongo-eisen-martin/
 tag: 20181111
 categories: 2018fall
-permalink: /two-nights-on-16th-street/
+permalink: /Two-Nights-on-16th-Street/
 ---
 
 <br><br>

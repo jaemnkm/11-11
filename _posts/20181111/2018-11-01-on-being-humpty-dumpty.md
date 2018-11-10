@@ -5,7 +5,7 @@ author: "Katherine Min"
 authorURL: /katherine-min/
 tag: 20181111
 categories: 2018fall
-permalink: /on-being-humpty-dumpty/
+permalink: /On-Being-Humpty-Dumpty/
 ---
 
 <br><br>

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Legs Spread, Mask On:  Reflections on Snow White, Deleuze,  and Late Capitalism"
+title: "Legs Spread, Mask On: Reflections on Snow White, Deleuze, and Late Capitalism"
 author: "Ross Simonini"
 authorURL: /ross-simonini/
 tag: 20181111
 categories: 2018fall
-permalink: /paul-mccarthy-in-conversation-with-ross-simonini/
+permalink: /Interview-with-Paul-McCarthy/
 ---
 
 <br><br>
