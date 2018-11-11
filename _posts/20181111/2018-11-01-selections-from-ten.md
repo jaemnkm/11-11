@@ -52,9 +52,15 @@ an entrance.
 <br>
 <br>
 <br>
-The breeze. The trees oblige.
+The breeze.
 <br>
-Be still. Appease
+The trees
+<br>
+oblige.
+<br>
+Be still.
+<br>
+Appease
 <br>
 my heart
 <br>
@@ -98,7 +104,9 @@ but below is what looks like brush,
 <br>
 wiry plants slanting where the sun
 <br>
-ascends. Miraculously all remainstill, though her cry tilts the words
+ascends. Miraculously all remain still,
+<br>
+though her cry tilts the words
 <br>
 so slightly. The leaning tower
 <br>
@@ -128,13 +136,19 @@ subsides.
 <br>
 <br>
 <br>
-To be about this. Resistance bites.
+To be about this.
+<br>
+Resistance bites.
 <br>
 I stretch into limits.
 <br>
-The wall of green sprawls. Each at its own.
+The wall of green sprawls.
 <br>
-The green holds light refracting.
+Each at its own.
+<br>
+The green holds light
+<br>
+refracting.
 <br>
 Blinded by
 <br>
@@ -165,7 +179,9 @@ eye.
 <br>
 To want to hold it.
 <br>
-Raging at you though pursuit is futile. That raging sea, desire.
+Raging at you though pursuit is futile.
+<br>
+That raging sea, desire.
 <br>
 Three new mouths shot from above
 <br>
@@ -211,7 +227,9 @@ A brown vine straggles. Giggle.
 <br>
 But why think progressively. A habit
 <br>
-of the human, you mean "hum." I'm done with moving fast. At last, alas. Your curls
+of the human, you mean "hum." I'm done
+<br>
+with moving fast. At last, alas. Your curls
 <br>
 all atopple. That tree a steeple.
 <br>
@@ -245,11 +263,17 @@ at the scientist's swagger.
 <br>
 Who are the bad guys raise your hand.
 <br>
-Well understandably you can't acquire assertiveness just by thinking. The milky sky retreats and she
+Well understandably you can't acquire assertiveness
 <br>
-eats words. However one might be listening the atmosphere glistens.
+just by thinking. The milky sky retreats and she
 <br>
-"Is that photo of her dying?" "No. she's alive and smiling." A kind of treaty to attend to
+eats words. However one might be listening the
+<br>
+atmosphere glistens.
+<br>
+"Is that photo of her dying?" "No. she's alive
+<br>
+and smiling." A kind of treaty to attend to
 <br>
 this penning of what's heard. The blank
 <br>
@@ -279,13 +303,21 @@ seized.
 <br>
 <br>
 <br>
-An elegant sheet of rain exquisite in its glow. "Where are you?"
+An elegant sheet of rain exquisite in its glow.
+<br>
+"Where are you?"
 <br>
 "Where do the animals go?"
 <br>
-Nature droops weighted from water and yet more beautiful "Which outfit is prettier?"
+Nature droops weighted from water and yet
 <br>
-Neon pink and silver lines drown the peeping leaves. Aware and noting material is barely responding.
+more beautiful "Which outfit is prettier?"
+<br>
+Neon pink and silver lines drown the peeping
+<br>
+leaves. Aware and noting material is barely
+<br>
+responding.
 <br>
 Aware the end is near.
 <br>
