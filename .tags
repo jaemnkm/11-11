@@ -175,3 +175,4 @@ li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layout
 p	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^ <p class="attribute">by <a href="{{site.baseurl}}{{post.authorURL}}">{{post.author}}<\/a><\/p>$/;"	function	line:129
 br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^ <br>$/;"	function	line:130
 br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^ <br>$/;"	function	line:131
+Tale	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/README.md	/^# Tale$/;"	function	line:1
