@@ -8,6 +8,7 @@ categories: 2018fall
 permalink: /Rustams-Throne/
 ---
 
+<img style="display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/Christopher Merrill_Photo 1.jpg" alt="">
 
 <p sytle="line-height: 2;">
 <br><br>
@@ -16,6 +17,10 @@ This story took place in northern Afghanistan, where I traveled in the spring of
 <br>
 <br>
 Our destination just outside the provincial capital of Samangan town was the hilltop Takht-i-Rustam, the Throne of Rustam, a mythical king who appears in Ferdowsi’s 10th-century epic, _Shahnameh: The Persian Book of Kings_. The throne was in fact a 4th-century Buddhist stupa carved from a single rock atop which lies a harmika in the form of a small square building, which once housed the Buddha’s relics; a trench twenty-five feet deep surrounds the stupa, and this was where monks would walk in mindfulness, circumnavigating the stupa, paying attention to their every step and breath. “When we practice walking meditation,” observes the Vietnamese Buddhist monk Ticht Nhat Hanh, “we arrive in each moment. When we enter the present moment deeply, our regrets and sorrows disappear, and we discover life with all its wonders.” This was what I tried to keep in mind on a warm spring morning as our group, which included several doctors, circled the stupa with families out for a stroll, watched over by Afghan Army soldiers.
+<br>
+<br>
+<br>
+<img style="display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/Christopher Merrill_Photo 2.jpg" alt="">
 <br>
 <br>
 Samangan’s centrality to Buddhism, which diminished with the Arab Muslims’ arrival in the 7th century and ended before Ferdowsi wrote, is little known today to anyone beyond a small band of scholars and Buddhist adepts. Hence Ferdowsi transformed the stupa into a throne for Rustam, “the preeminent hero of the legendary section of the poem,” in the words of Dick Davis, whose translation of _Shahnameh_ was my introduction to the Persian national epic. The story goes that when Rustom’s horse vanished while he was napping one day in Samangan, a border region at the time, the local king promised to find it. Rustam thus spent the night, during which the king’s daughter, Tahmina, stole into his room to pledge her love to a man believed to possess godlike abilities. To win her hand, according to my traveling companions, Rustam had to complete three heroic tasks: pull a large tree out by its roots, leap across the abyss to the stupa (a distance of some twenty feet), and slay a monster. The marriage was consummated that night, and when Rustam’s horse was returned to him in the morning he left, never to see his wife again. In Ferdowsi’s telling, the stupa commemorates their marriage, which produced a son nine months later, whom Rustam was destined to kill before learning his identity. After the Taliban destroyed the Bamiyan Buddhas in 2001 Takht-i-Rustam became the most important Buddhist shrine in Afghanistan.
@@ -39,6 +44,10 @@ What more can go wrong? I thought.
 Unaccountably, I recalled the legend that Mahmud of Ghazni, the Sultan of the Ghaznavid Empire, which in his time encompassed Afghanistan, eastern Iran, and Pakistan, offered Ferdowsi a gold piece for every couplet he wrote, which is why _The Shahnameh_ is the longest epic composed by a single author. The Sultan thus sent him 60,000 gold pieces upon completion of his work. But the courtier entrusted with the treasure regarded Ferdowsi as a heretic and replaced the gold with silver, which so angered the poet that he gave it all away. The Sultan condemned Ferdowsi, who spent much of the rest of his life in exile, poverty, and despair; when the Sultan finally realized his error and tried to make good on his pledge, the poet was dead.
 <br>
 <br>
+<br>
+<img style="display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/Christopher Merrill_Photo 4.jpg" alt="">
+<br>
+<br>
 Eventually we came to the new hospital in Mazar-i-Sharif, which was in a dilapidated state, with injured and dying men and women lying on the floor in the main corridor, some in bloodied clothes. I was relieved when the doctors sent me back to my guest house—where this story might have ended but for the diligence of my good-natured hostess. She suggested that I give my final lecture the next day at a technical university then visit the city of Balkh, near the Uzbek border, where the Sufi poet Rumi, or Mawlānā, as he is known to Persian speakers, was probably born, in 1207. I remember nothing about my lecture, not even its subject, and a photograph of me with the students and faculty brings nothing to mind beyond the fact that I was indeed there. My memory of the day begins later in the morning in a car with a poet-anesthesiologist stopping at a roundabout to pick up three more poets, including an expert on the history of Balkh, a center of Zoroastrianism, Buddhism, and then Islam. This city was destroyed twenty-one times, said the poet, and launched into colorful stories about its most famous conquerors, Alexander the Great, Genghis Khan, and Tamerlane. I cannot vouch for the veracity of his stories, since he chain-smoked cigarettes filled with hashish and my notes remain inscrutable. But I do remember the poets describing adventures here during the Taliban era. The local commander was a hard-drinking man who looked the other way when students came from Mazar-i-Sharif to party.
 <br>
 <br>
@@ -54,7 +63,12 @@ before we go, one at a time through the same gate?
 <br>
 <br>
 The symposium, titled _The Same_ _Gate: A Poetic Exchange_, brought together writers and scholars from America, Iran, Pakistan, Syria, and Turkey for a series of discussions about Rumi, which were both tense and thrilling. The Iranian exiles distrusted the Persian literature professors from Tehran, two Afghans suspected a third of having ties to the Taliban, and everyone wondered what the Americans wanted. When one exile accused the professors of reading Rumi through their government’s religious lens, they countered with long disquisitions and recitations of ghazals, ably translated by another exile, whose good humor deflected many arguments. For the questions raised each day—what is the poet’s relationship to religion, women, his friend Shams? Can the music of his verses survive translation? How shall we interpret his use of the word _love_?—were fraught. After the last session, I called on Rumi’s granddaughter twenty-two generations removed, who reinforced her message of peace with a simple gesture, teaching me to say goodbye in the Sufi way by clasping my hand like an arm wrestler then kissing it. Through the window I saw her ancestor’s shrine shimmering in the heat. And in the _madrassa_ in Balkh I wondered why I had been spared passage in Samangan through the same gate that awaits us all.
-
+<br>
+<br>
+<br>
+<img style="display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/Christopher Merrill_Photo 3.jpg" alt="">
+<br>
+<br>
 From there we drove to a windswept plain a mile or more wide and hiked to the top of a mound of ruins—part of a wall that once surrounded another city, long since vanished. In the center was an incongruous sight: a swing set, a camel, and a hut in which men were smoking hashish in a turquoise bong. They offered me a free hit, since I was a foreigner, which I declined, fearing its effects on my concussion. The poet-anesthesiologist explained my situation, which did not seem to surprise or faze them. On the drive back to Mazar-i-Sharif, he encouraged his friends to recite ghazals, Rumi’s and their own, improvising translations for me. “Note to future historians,” Charles Simic said: “Don’t read old issues of _The New York Times_. Read the poets.” A nation’s true history may well be inscribed in a poem recited in a Toyota:
 <br>
 <br>

@@ -83,7 +83,7 @@ p{
   background-image: url("{{site.baseurl}}/assets/section-head.png");
   h1{
     font-family: Fabrik-Regular;
-    font-size: 32px;
+    font-size: 36px;
     color: #000000;
     text-align: center;
   }
@@ -136,33 +136,37 @@ p{
 
   a:any-link {
     text-decoration: none !important;
+    padding: 0.5vh 0 0.5vh 0;
   }
-
+a:hover{
+  color: #000000;
+}
 a::after {
   position: absolute;
   left: 0;
   content: '';
   width: 100%;
   height: 2px;
-  background: #000;
-  bottom: -2px;
-  transform: scale(0, 1);
-  transition: transform .3s;
+  background: #FFEF2E;
+  bottom: 5px;
+  transform: scale(0, 2);
+   transition: transform .6s;
   transform-origin: left top;
 }
 a:hover::after {
-  transform: scale(1, 1);
+  transform: scale(1, 3);
 }
   .space{
-    padding: 5vh 0 0 0 ;
+    padding: 10vh 0 10vh 0 ;
   }
 }
 
 .post-section-head{
   padding: 15vh 20vw 0vh 20vw;
+
   h1{
     font-family: Fabrik-Regular;
-    font-size: 32px;
+    font-size: 36px;
     color: #000000;
     text-align: left;
   }
@@ -183,7 +187,8 @@ a:hover::after {
 }
 .post-section{
   text-decoration: none;
-  padding: 5vh 20vw 0 20vw;
+  padding: 5vh 30vw 0 20vw;
+
 
   h2{
     font-family: Fabrik-Regular;
@@ -219,21 +224,21 @@ a:hover::after {
     text-decoration: none !important;
   }
 
-a::after {
-  position: absolute;
-  left: 0;
-  content: '';
-  width: 100%;
-  height: 2px;
-  background: #000;
-  bottom: -2px;
-  transform: scale(0, 1);
-  transition: transform .3s;
-  transform-origin: left top;
-}
-a:hover::after {
-  transform: scale(1, 1);
-}
+  a::after {
+    position: absolute;
+    left: 0;
+    content: '';
+    width: 100%;
+    height: 2px;
+    background: #FFEF2E;
+    bottom: 5px;
+    transform: scale(0, 2);
+     transition: transform .6s;
+    transform-origin: left top;
+  }
+  a:hover::after {
+    transform: scale(1, 3);
+  }
   // .space{
   //   padding: 5vh 0 0 0 ;
   // }
@@ -307,7 +312,7 @@ Issue
 
   h1{
     font-family: Fabrik-Regular;
-    font-size: 32px;
+    font-size: 36px;
     color: #000000;
     text-align: left;
     padding-top: 5vh;
@@ -366,6 +371,15 @@ Issue
   .attribute{
     text-decoration: none;
   }
+  .card{
+    padding:0 0 0 0;
+     word-wrap: break-word;
+     background-color: none;
+     background-clip: none;
+     border: none;
+     border-radius: none;
+     background-color: none;
+  }
   a{
     font-size: 24px;
     font-family: 'Work Sans';
@@ -378,26 +392,27 @@ Issue
     text-decoration: none !important;
   }
 
-a::after {
-  position: absolute;
-  left: 0;
-  content: '';
-  width: 100%;
-  height: 2px;
-  background: #000;
-  bottom: -2px;
-  transform: scale(0, 1);
-  transition: transform .3s;
-  transform-origin: left top;
-}
-a:hover::after {
-  transform: scale(1, 1);
-}
+  a::after {
+    position: absolute;
+    left: 0;
+    content: '';
+    width: 100%;
+    height: 2px;
+    background: #FFEF2E;
+    bottom: 5px;
+    transform: scale(0, 2);
+     transition: transform .6s;
+    transform-origin: left top;
+  }
+  a:hover::after {
+    transform: scale(1, 3);
+  }
   .space{
     padding: 1vh 0 0 0 ;
   }
 
 }
+
 
 
 /***********
@@ -410,9 +425,10 @@ Landing Page
     height: 90vh;
     flex-wrap: nowrap;
     overflow: auto;
-    background-image: url("{{site.baseurl}}/assets/1111-laning-pattern.svg");
-      background-repeat: no-repeat;
-    
+    background-image: url("{{site.baseurl}}/assets/1111-laning-pattern.png");
+    background-size: center center;
+    background-repeat: no-repeat;
+
     .row{
       flex-wrap: nowrap;
 
