@@ -161,7 +161,7 @@ li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layout
 br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <br><br>$/;"	function	line:93
 li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/ross-simonini\/">Ross Simonini<\/a><\/h3>$/;"	function	line:94
 ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:95
-li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/Interview-with-Paul-McCarthy\/">Interview with Paul McCarthy<\/a><\/li>$/;"	function	line:96
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/Interview-with-Paul-McCarthy\/">Legs Spread, Mask On:  Reflections on Snow White, Deleuze,  and Late Capitalism<\/a><\/li>$/;"	function	line:96
 br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <br><br>$/;"	function	line:99
 li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/john-yau\/">John Yau<\/a><\/h3>$/;"	function	line:100
 ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:101
