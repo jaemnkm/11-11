@@ -16,6 +16,7 @@ I had moved to a small island, population 410. I worked for a small company. The
 <br><br>
 But I learned to act very natural at work. The first day, they gave me what turned out to be my only assignment. “Please, make a spreadsheet of all sources of private funding available from organizations which contained the following code somewhere in their documentation at some point over the past three decades: IjkeRt5671_410.” This arcane task became my whole job. It was hard for me to tell what the funds were for as I dutifully logged the data. The language of the documents they had me searching was nominally English, but beyond my ken. “Specialized.”
 <br><br>
+
 I was on the outer circle of the outer circle, a paid gleaner of obscure documents and an occasional proofreader for banal white papers that contained no discernible substance. But I’m ashamed to say I didn’t care: I was indifferent to what they were doing. Vague, embarrassing, and unfulfilled longings for sex and revelation preoccupied me, dampening the faculty of curiosity. I put in my eight hours and I went home.
 <br><br>
 My employers worked constantly, every day and night, but they didn’t expect me to. I took weekends for myself, though I never left the island. They left me alone on my days off, never calling or intruding on my nights or weekends. As a result, when, about six months into working for them, I saw their number on my phone in the middle of the day on a Saturday, I thought they must have an important reason to call.
