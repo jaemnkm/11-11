@@ -403,13 +403,9 @@ a:hover::after {
 /***********
 Landing Page
 ***********/
-.background-hero{
-background-image: url({{site.baseurl}}/assets/1111-laning-pattern.svg);
-// width: 40%px;
-// padding: 20px;
-// position: relative;
-}
+
 .r-fluid{
+    background-image: url("{{site.baseurl}}/assets/1111-laning-pattern.svg");
     white-space: nowrap;
     height: 90vh;
     flex-wrap: nowrap;
@@ -417,6 +413,7 @@ background-image: url({{site.baseurl}}/assets/1111-laning-pattern.svg);
 
     .row{
       flex-wrap: nowrap;
+      
     }
     .col-6{
       display: inline-block;

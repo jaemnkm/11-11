@@ -1,3 +1,80 @@
+@font-face	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^@font-face {$/;"	function	line:6
+src: url("{	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^    src: url("{{site.baseurl}}\/assets\/fonts\/fabrik_n.otf");$/;"	function	line:8
+@font-face	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^@font-face {$/;"	function	line:10
+src: url("{	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^    src: url("{{site.baseurl}}\/assets\/fonts\/fabrik_bc.otf");$/;"	function	line:12
+main	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^main{$/;"	function	line:18
+.container-fluid	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.container-fluid{$/;"	function	line:24
+body	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^body{$/;"	function	line:27
+h1 h2 h3 h4	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^h1 h2 h3 h4 {$/;"	function	line:30
+h1	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^h1{$/;"	function	line:33
+h2	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^h2{$/;"	function	line:36
+p	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^p{$/;"	function	line:42
+.collection-list	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.collection-list{$/;"	function	line:46
+.list-1	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.list-1{$/;"	function	line:50
+.list-2	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.list-2{$/;"	function	line:60
+.list-3	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.list-3{$/;"	function	line:71
+.page-section-head	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.page-section-head{$/;"	function	line:80
+background-image: url("{	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  background-image: url("{{site.baseurl}}\/assets\/section-head.png");$/;"	function	line:83
+h1	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  h1{$/;"	function	line:84
+p	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  p{$/;"	function	line:90
+.line-section	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  .line-section{$/;"	function	line:96
+a	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  a{$/;"	function	line:99
+.page-section	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.page-section{$/;"	function	line:105
+h2	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  h2{$/;"	function	line:108
+p	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  p{$/;"	function	line:115
+ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  ul{$/;"	function	line:120
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  li{$/;"	function	line:123
+a	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  a{$/;"	function	line:130
+a:any-link	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  a:any-link {$/;"	function	line:137
+a::after	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^a::after {$/;"	function	line:141
+a:hover::after	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^a:hover::after {$/;"	function	line:153
+.space	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  .space{$/;"	function	line:156
+.post-section-head	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.post-section-head{$/;"	function	line:161
+h1	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  h1{$/;"	function	line:163
+p	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  p{$/;"	function	line:169
+.line-section	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  .line-section{$/;"	function	line:175
+a	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  a{$/;"	function	line:178
+.post-section	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.post-section{$/;"	function	line:184
+h2	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  h2{$/;"	function	line:188
+h3	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  h3{$/;"	function	line:195
+p	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  p{$/;"	function	line:200
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  li{$/;"	function	line:203
+a	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  a{$/;"	function	line:211
+a:any-link	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  a:any-link {$/;"	function	line:218
+a::after	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^a::after {$/;"	function	line:222
+a:hover::after	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^a:hover::after {$/;"	function	line:234
+// .space	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  \/\/ .space{$/;"	function	line:237
+.nav	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.nav{$/;"	function	line:242
+a	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  a{$/;"	function	line:243
+.nav-section	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.nav-section{$/;"	function	line:247
+.nav-title	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  .nav-title{$/;"	function	line:249
+.nav-links	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  .nav-links{$/;"	function	line:255
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  li{$/;"	function	line:261
+.attribute	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.attribute{$/;"	function	line:297
+.segmet-left	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.segmet-left{$/;"	function	line:300
+.issue-section-head	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.issue-section-head{$/;"	function	line:304
+h1	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  h1{$/;"	function	line:308
+h3	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  h3{$/;"	function	line:316
+p	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  p{$/;"	function	line:324
+.line-section	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  .line-section{$/;"	function	line:332
+a	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  a{$/;"	function	line:335
+.issue-section	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.issue-section{$/;"	function	line:341
+h2	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  h2{$/;"	function	line:344
+h3	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  h3{$/;"	function	line:351
+p	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  p{$/;"	function	line:354
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  li{$/;"	function	line:358
+.attribute	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  .attribute{$/;"	function	line:366
+a	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  a{$/;"	function	line:369
+a:any-link	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  a:any-link {$/;"	function	line:377
+a::after	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^a::after {$/;"	function	line:381
+a:hover::after	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^a:hover::after {$/;"	function	line:393
+.space	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^  .space{$/;"	function	line:396
+.r-fluid	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.r-fluid{$/;"	function	line:407
+background-image: url("{	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^    background-image: url("{{site.baseurl}}\/assets\/1111-laning-pattern.svg");$/;"	function	line:408
+.row	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^    .row{$/;"	function	line:414
+.col-6	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^    .col-6{$/;"	function	line:418
+.landing-space	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^.landing-space{$/;"	function	line:425
+// .row-fluid .col-lg-3	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/assets/main.scss	/^\/\/ .row-fluid .col-lg-3{$/;"	function	line:429
 div	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^<div class="container-fluid">$/;"	function	line:4
 div	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^  <div class="row ">$/;"	function	line:5
 div	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^    <div class="col-sm-12	col-md-12	col-lg-6	col-xl-6 segment-left issue-section-head">$/;"	function	line:6
@@ -43,7 +120,7 @@ li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layout
 br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <br><br>$/;"	function	line:61
 li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/christopher-merrill\/">Christopher Merrill<\/a><\/h3>$/;"	function	line:62
 ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:63
-li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/rustams-throne\/">Rustam's Throne<\/a><\/li>$/;"	function	line:64
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/Rustams-Throne\/">Rustam's Throne<\/a><\/li>$/;"	function	line:64
 br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <br><br>$/;"	function	line:67
 li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/katherine-min\/">Katherine Min<\/a><\/h3>$/;"	function	line:68
 ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:69
