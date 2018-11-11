@@ -405,15 +405,17 @@ Landing Page
 ***********/
 
 .r-fluid{
-    background-image: url("{{site.baseurl}}/assets/1111-laning-pattern.svg");
+
     white-space: nowrap;
     height: 90vh;
     flex-wrap: nowrap;
     overflow: auto;
-
+    background-image: url("{{site.baseurl}}/assets/1111-laning-pattern.svg");
+      background-repeat: no-repeat;
+    
     .row{
       flex-wrap: nowrap;
-      
+
     }
     .col-6{
       display: inline-block;

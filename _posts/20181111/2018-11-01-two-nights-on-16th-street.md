@@ -32,7 +32,7 @@ Stuck with one of those cultures that believes I chose this family
 
 
 
-<div style="text-align:right; ">
+<p style="text-align:right; ">
 I am not creative
 <br>
 Just the silliest of the revolutionaries
@@ -46,30 +46,32 @@ Wannabe mayor
 About hating your enemies
 <br>
 A little more realistically
-</div>
+</p>
 
 
 
-<div style="text-align:left; ">
+<p style="text-align:left; ">
 <br>
-Our eyesight returning to red/Notepad swimming to red/Bracing for the medicine’s recoil
+Our eyesight returning to red/Notepad swimming to red/Bracing for the
+<br>
+medicine’s recoil
 <br><br>
 I need my left hand back 
 <br>
 I broke my neck on the piano keys
 <br>
 Found paradise in a fistfight
-<br>
+<br><br>
 Watching the universe’s last metronome
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some have the nerve to call a “homeless teenager”
 <br>
-</div>
+</p>
 
 
 
 
-
+<p style="text-align:right; ">
 Just wait…
 <br>
 These religions will start resigning in a decade or two
@@ -79,17 +81,18 @@ Some colorfully 
 Some transactionally
 <br>
 In a cotton gothic society
+</p>
 <br>
 Class betrayal gone glassless/ I mean ironically/ my window started fogging over too 
 
 
-<div style="text-align:right; ">
+<p style="text-align:right; ">
 <br>
 I remember childhood
 <br>
 Remember the word “Childhood” being a beginning 
 <br>
-</div>
+</p>
 <br>
 A poet loses his mind, you know, like the room has weather
 <br>
@@ -109,7 +112,7 @@ The difference between me and you
 Is that the madness
 <br>
 Wants me forever
-<div style="text-align:right; ">
+<p style="text-align:right; ">
 <br>
 <br>
 Bright lights behind hyena eyes,
@@ -117,13 +120,14 @@ Bright lights behind hyena eyes,
 I mean, if I had to fall in love today
 <br>
 My grandchildren would be doomed 
-</div>
+</p>
+<br>
 <br>
 A pair of apartments
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Defining both my family
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Defining both my family
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;And political composure
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And political composure
 <br>
 <br>
 Books behind my back
@@ -139,14 +143,14 @@ Euphoria
 Cliché
 
 
-<div style="text-align:right; ">
+<p style="text-align:right;">
 <br><br>
 Sharing a dirty deli sandwich with my friend
 <br>
 A cosmic tool counted on by scared people
 <br><br>
 Psychology of the mask now
-<br>
+<br><br>
 Teeth of the mask again
 <br>
-</div>
+</p>
