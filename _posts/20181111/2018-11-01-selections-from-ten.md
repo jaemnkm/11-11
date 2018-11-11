@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Selections from Ten"
+title: "Selections from <i>Ten</i>"
 author: "Jennifer Firestone"
 authorURL: /jennifer-firestone/
 tag: 20181111
@@ -56,11 +56,6 @@ an entrance.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 The breeze. The trees oblige.
 <br>
 Be still. Appease
@@ -74,11 +69,6 @@ nerve
 long
 <br>
 gone.
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -150,11 +140,6 @@ subsides.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 To be about this. Resistance bites.
 <br>
 I stretch into limits.
@@ -168,11 +153,6 @@ Blinded by
 a mind's
 <br>
 eye.
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -244,11 +224,6 @@ To affix the loss away from.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 "Buuuhrd." The bird house sits transmitting light.
 <br>
 What a sight the sky. Those are clouds.
@@ -266,11 +241,6 @@ What would one do with names of species?
 The science blinks
 <br>
 at the scientist's swagger.
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -338,11 +308,6 @@ seized.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 An elegant sheet of rain exquisite in its glow. "Where are you?"
 <br>
 "Where do the animals go?"
@@ -354,11 +319,6 @@ Neon pink and silver lines drown the peeping leaves. Aware and noting material i
 Aware the end is near.
 <br>
 Not a sheet of rain but shiny pane of glass.
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
