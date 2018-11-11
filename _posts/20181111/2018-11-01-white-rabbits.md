@@ -8,7 +8,7 @@ categories: 2018fall
 permalink: /White-Rabbits/
 ---
 
-<p sytle="lline-height: 2;">
+<p sytle="line-height: 2;">
 <br><br>
 <br><br>
 Ye-ye always had a pocketful of White Rabbit candies for me when I was a child.
