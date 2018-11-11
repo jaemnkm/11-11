@@ -20,7 +20,6 @@ layout: default
     </div>
     <div class="col-12 page-nav">
       <p>
-
     </p>
     </div>
   </div>
@@ -36,10 +35,14 @@ layout: default
   </div>
   <div class="col-12 space">
     <h2>Masthead</h2>
-    <ul class="list-3">
-      {% for post in site.categories.masthead %}
+    <ul class="list-2">
+      <li><a href="{{site.baseurl}}/leslie-carol-roberts"/>Leslie Carol Roberts, Editorial Director</a></li>
+      <li><a href="{{site.baseurl}}/joseph-lease/">Joseph Lease, Editor</a></li>
+      <li><a href="{{site.baseurl}}/vanessa-kauffman-zimmerly/">Vanessa Kauffman Zimmerly, Editorial Manager</a></li>
+      <li><a href="{{site.baseurl}}/william-felker/">William Felker, Design Director</a></li>
+      <!-- {% for post in site.categories.masthead %}
        <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }},<br>{{ post.bio }}</a></li>
-      {% endfor %}
+      {% endfor %} -->
     </ul>
   </div>
 </div>
