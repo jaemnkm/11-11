@@ -1,0 +1,80 @@
+div	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^<div class="container-fluid">$/;"	function	line:4
+div	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^  <div class="row ">$/;"	function	line:5
+div	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^    <div class="col-sm-12	col-md-12	col-lg-6	col-xl-6 segment-left issue-section-head">$/;"	function	line:6
+h	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^      <h1>{{page.title}}<\/h1>$/;"	function	line:7
+h	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^      <h3>{{page.editor}}<\/h3>$/;"	function	line:8
+p	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^      <p>{{content}}<\/p>$/;"	function	line:9
+div	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^    <div style="padding-top: 10vh;" class="col-sm-12	col-md-12	col-lg-6	col-xl-6 issue-section">$/;"	function	line:11
+ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^      <ul class="collection-list">$/;"	function	line:12
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/dodie-bellamy\/">Dodie Bellamy<\/a><\/h3>$/;"	function	line:13
+ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:14
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/The-Violence-of-the-Image\/">The Violence of the Image<\/a><\/li>$/;"	function	line:15
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/Stuff-My-Stalker-Has-Ordered-for-Me-Online\/">Stuff My Stalker Has Ordered for Me Online<\/a><\/li>$/;"	function	line:16
+br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <br><br>$/;"	function	line:19
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/may-lee-chai\/">May-lee Chai<\/a><\/h3>$/;"	function	line:20
+ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:21
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/White-Rabbits\/">White Rabbits<\/a><\/li>$/;"	function	line:22
+br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <br><br>$/;"	function	line:25
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/tongo-eisen-martin\/">Tongo Eisen-Martin<\/a><\/h3>$/;"	function	line:26
+ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:27
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/Fish-With-Ambition-to-Become-the-River\/">Fish With Ambition to Become the River<\/a><\/li>$/;"	function	line:28
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/Two-Nights-on-16th-Street\/">Two Nights on 16th Street<\/a><\/li>$/;"	function	line:29
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/Many-Doses-To-Go-Or-Turns-the-Pen\/">Many Doses To Go Or Turns the Pen<\/a><\/li>$/;"	function	line:30
+br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <br><br>$/;"	function	line:33
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/jennifer-firestone\/">Jennifer Firestone<\/a><\/h3>$/;"	function	line:34
+ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:35
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/Selections-from-Ten\/">Selections from Ten<\/a><\/li>$/;"	function	line:36
+br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <br><br>$/;"	function	line:39
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/sheila-heti\/">Sheila Heti<\/a><\/h3>$/;"	function	line:40
+ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:41
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/Literature-Against-Anxiety\/">Literature Against Anxiety<\/a><\/li>$/;"	function	line:42
+br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <br><br>$/;"	function	line:45
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/lorelei-lee\/">Lorelei Lee<\/a><\/h3>$/;"	function	line:46
+ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:47
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/Leaving-San-Francisco\/">Leaving San Francisco<\/a><\/li>$/;"	function	line:48
+br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <br><br>$/;"	function	line:51
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/miranda-mellis\/">Miranda Mellis<\/a><\/h3>$/;"	function	line:52
+ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:53
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/The-Imperceptible-Utopia\/">The Imperceptible Utopia<\/a><\/li>$/;"	function	line:54
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/To-Not-Become-a-Pillar-of-Salt\/">To Not Become a Pillar of Salt<\/a><\/li>$/;"	function	line:55
+br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <br><br>$/;"	function	line:58
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/christopher-merrill\/">Christopher Merrill<\/a><\/h3>$/;"	function	line:59
+ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:60
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/rustams-throne\/">Rustam's Throne<\/a><\/li>$/;"	function	line:61
+br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <br><br>$/;"	function	line:64
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/katherine-min\/">Katherine Min<\/a><\/h3>$/;"	function	line:65
+ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:66
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/On-Being-a-Sprinter\/">On Being a Sprinter<\/a><\/li>$/;"	function	line:67
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/On-Being-Humpty-Dumpty\/">On Being Humpty Dumpty<\/a><\/li>$/;"	function	line:68
+br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <br><br>$/;"	function	line:71
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/laura-mullen\/">Laura Mullen<\/a><\/h3>$/;"	function	line:72
+ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:73
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/Scream\/">Scream<\/a><\/li>$/;"	function	line:74
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/Elsie-Disclaimer\/">Elsie (Disclaimer)<\/a><\/li>$/;"	function	line:75
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/Elsie-The-Coward\/">Elsie The Coward<\/a><\/li>$/;"	function	line:76
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/Elsie-Doesnt-Mind\/">Elsie Doesn't Mind<\/a><\/li>$/;"	function	line:77
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/El-C-the-C\/">El C the C<\/a><\/li>$/;"	function	line:78
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/The-Imaginary-Begins\/">The Imaginary Begins<\/a><\/li>$/;"	function	line:79
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/C-Section\/">C Section<\/a><\/li>$/;"	function	line:80
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/Queen-of-Muses\/">Queen of Muses<\/a><\/li>$/;"	function	line:81
+br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <br><br>$/;"	function	line:84
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/ron-silliman\/">Ron Silliman<\/a><\/h3>$/;"	function	line:85
+ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:86
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/from-Parrot-Eyes-Lust\/">from Parrot Eyes Lust<\/a><\/li>$/;"	function	line:87
+br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <br><br>$/;"	function	line:90
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/ross-simonini\/">Ross Simonini<\/a><\/h3>$/;"	function	line:91
+ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:92
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/Interview-with-Paul-McCarthy\/">Interview with Paul McCarthy<\/a><\/li>$/;"	function	line:93
+br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <br><br>$/;"	function	line:96
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^        <li><h3><a href="{{site.baseurl}}\/john-yau\/">John Yau<\/a><\/h3>$/;"	function	line:97
+ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^          <ul class="collection-list">$/;"	function	line:98
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/The-Presidents-Second-Telegram\/">The President's Second Telegram<\/a><\/li>$/;"	function	line:99
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/The-Presidents-Telegram-3\/">The President's Telegram (3)<\/a><\/li>$/;"	function	line:100
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^            <li><a href="{{site.baseurl}}\/The-Congressmans-Explanation\/">The Congressman's Explanation<\/a><\/li>$/;"	function	line:101
+p	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^  <p class="attribute"><a href="{{site.baseurl}}{{post.authorURL}}">{{group.name}}<\/a><\/p>$/;"	function	line:113
+ul	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^  <ul>$/;"	function	line:114
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^    <li><p><a href="{{site.baseurl}}{{ post.url }}">{{ item.title }}<\/a><\/p><\/li>$/;"	function	line:116
+li	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^ <li><p><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}<\/a><\/p><\/li>$/;"	function	line:125
+p	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^ <p class="attribute">by <a href="{{site.baseurl}}{{post.authorURL}}">{{post.author}}<\/a><\/p>$/;"	function	line:126
+br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^ <br>$/;"	function	line:127
+br	/Users/wf/Documents/_gndclouds/gc.clients/eleven eleven/website/11-11/_layouts/issue.html	/^ <br>$/;"	function	line:128
