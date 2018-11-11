@@ -10,443 +10,603 @@ permalink: /from-Parrot-Eyes-Lust/
 
 <br><br>
 <br><br>
-&nbsp;
-I do this
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I do that
+ &nbsp;I do this
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I do that
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hard drive hums a different tune
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hard drive hums a different tune
 <br><br>
-More of a growl really
+ More of a growl really
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Orphan files recovered
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Orphan files recovered
 <br><br>
-not unlike&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tips of text
+ not unlike&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tips of text
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at the top or bottom of page
-<br>
-<br>
-Please wait while this page restarts Dear lovely cursor
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at the top or bottom of page
 <br>
 <br>
-little line
-<br>
-from which somehow letters leap forth
-<br>
-out of which words
+ Please wait while this page restarts
 <br>
 <br>
-warp & wave
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dear lovely cursor
 <br>
-& wiggle
 <br>
-as certain
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;little line
 <br>
-as gravity to a waterfall
 <br>
-here deep in the forest
+ from which somehow letters leap forth
 <br>
-Too much Saturn not enough moon
+ out of which words
 <br>
-We knew
 <br>
-not only that you like
+ warp & wave
 <br>
-to ‘pop’ your knuckles
 <br>
-from Parrot Eyes Lust
+ & wiggle
 <br>
-Ron Silliman
 <br>
-For Elliot Helfer
+ as certain
 <br>
-but that you do so ‘inside out’ center fingers first
+ as gravity to a waterfall
 <br>
-alternating
 <br>
-from one hand to the next
+ here deep in the forest
 <br>
-then pointer
 <br>
-then ring finger
+ Too much Saturn not enough moon
 <br>
-birds loud in the canopy
+ We knew
 <br>
-not a hint of the squirrels
 <br>
-I see one robin
+ not only that you like
 <br>
-fat on the lawn
+ to ‘pop’ your knuckles
 <br>
-hard copy is
+ but that you do so ‘inside out’
 <br>
-at least truthier
+ center fingers first
 <br>
-Spot right at the soffit’s edge
+ alternating
 <br>
-where invariably I hit my head
+ from one hand to the next
 <br>
-Old iron wind chimes
 <br>
-you can smell the rust
+ then pointer
 <br>
-The rest is time
+ then ring finger
 <br>
-already at dawn
 <br>
-I hear someone’s sprinklers
+ birds loud in the canopy
 <br>
-Lavender hydrangea
 <br>
-up against the fence
+ not a hint of the squirrels
 <br>
-Squirrel among birdcalls
+ I see one robin
 <br>
-Kiss of the hummingbird
+ fat on the lawn
 <br>
-Who in that house all those kids
 <br>
-(not seen)
+ hard copy is
 <br>
-the girls & their boyfriends reads a book?
+ at least truthier
 <br>
-Rabbit in the road
 <br>
-Last night the first June bugs tonight even more
+ Spot
 <br>
-Little concrete stupa
+ right at the soffit’s edge
+<br>
+ where invariably
+<br>
+ I hit my head
+<br>
+<br>
+ Old iron wind chimes
+<br>
+ you can smell the rust
+<br>
+<br>
+ The rest is time
+<br>
+<br>
+ already at dawn
+<br>
+ I hear someone’s sprinklers
+<br>
+<br>
+ Lavender hydrangea
+<br>
+ up against the fence
+<br>
+<br>
+ Squirrel among birdcalls
+<br>
+<br>
+ Kiss of the hummingbird (not seen)
+<br>
+<br>
+ Who in that house
+<br>
+ all those kids
+<br>
+ the girls & their boyfriends
+<br>
+ reads a book?
+ <br>
+<br>
+ Rabbit in the road
+<br>
+<br>
+ Last night the first June bugs
+<br>
+ tonight even more
+<br>
+<br>
+ Little concrete stupa
 <br>
  hidden behind hastas
- <br>
-Newspaper ungathered at the driveway’s base
-<br>
-Pulp of the banana slides down the esophagus
-<br>
-great lake
-<br>
-of stomach bacteria
-<br>
-awaits
-<br>
-That clicking, kissing sound is the squirrels
-<br>
-hum of the first weekend pilot
-<br>
-Sun suddenly
-<br>
-casts its shadow
-<br>
-Hundreds of tiny flying things
-<br>
-so small
-<br>
-you wouldn’t even notice
-<br>
-but for this
-<br>
-moment of illumination
-<br>
-Dog’s moan
-<br>
-so particular I even know
-<br>
-which dog
-<br>
-now, somewhere in the mix a rock dove coos
-I know who he was
-<br>
-but never really read him
-<br>
-didn’t notice
-<br>
-that he’d disappeared
-<br>
-let alone that you’d died
-<br>
-now, 21 years later these brilliant poems shimmer in the light
-<br>
-“pain free”
-<br>
-I hear my son yawn two rooms away
-<br>
-The rain appears to have stopped
-<br>
-but that bird’s returned with its 5-note song
-<br>
-Dear Philip,
-<br>
-it’s 5:03 AM
-<br>
-nine hours west of here
-<br>
-three hours west of Hawai’i
-<br>
-I have to be careful now
-<br>
-at the sight of the slightest spider
-<br>
-It might be you
-<br>
-At dawn
-<br>
-one finds moths
-<br>
-gathered at the sink
-<br>
-This gigantic notebook
-<br>
-Gradually the poem unveils itself
 <br>
 <br>
- well not the light exactly this gray paper
- <br>
-starting to darken with age
+ Newspaper ungathered
 <br>
-These beach houses furnished all alike
+ at the driveway’s base
 <br>
-pastels too bright
 <br>
-seashell decorations
+ Pulp of the banana
 <br>
-& the promise
+ slides down the esophagus
 <br>
-of an outdoor shower
+ great lake
 <br>
-The “girl” at the market made me happy
+ of stomach bacteria
 <br>
-with her Russian accent
+ awaits
 <br>
-The compost of America becoming that much more rich
 <br>
-The joints of my legs conjoin with the pelvis
+ That clicking, kissing sound
 <br>
-where just to sit still is not entirely
+ is the squirrels
+<br>
+<br>
+ hum of the first
+<br>
+ weekend pilot
+<br>
+<br>
+ Sun suddenly
+<br>
+ casts its shadow
+<br>
+<br>
+ Hundreds of tiny
+<br>
+ flying things
+<br>
+ so small
+<br>
+ you wouldn’t even notice
+<br>
+ but for this
+<br>
+ moment of illumination
+<br>
+<br>
+ Dog’s moan
+<br>
+ so particular
+<br>
+ I even know
+<br>
+ which dog
+<br>
+<br>
+ now, somewhere in the mix
+<br>
+ a rock dove coos
+<br>
+<br>
+ I know who he was
+<br>
+ but never really read him
+<br>
+<br>
+ didn’t notice
+<br>
+ that he’d disappeared
+<br>
+<br>
+ let alone that you’d died
+<br>
+<br>
+ now, 21 years later
+<br>
+ these brilliant poems
+<br>
+ shimmer in the light
+<br>
+ well not the light exactly
+<br>
+ this gray paper
+<br>
+ starting to darken with age
+<br>
+ These beach houses
+<br>
+ furnished all alike
+<br>
+ pastels too bright
+<br>
+ seashell decorations
+<br>
+ & the promise
+<br>
+ of an outdoor shower
+<br>
+<br>
+ The “girl” at the market
+<br>
+ made me happy
+<br>
+ with her Russian accent
+<br>
+<br>
+ The compost of America
+<br>
+ becoming that much more rich
+<br>
+<br>
+ The joints of my legs
+<br>
+ conjoin with the pelvis
+<br>
+ where just to sit still
+<br>
+ is not entirely
+<br>
+ “pain free”
+<br>
+<br>
+ This gigantic notebook
+<br>
+<br>
+ Gradually the poem
+<br>
+ unveils itself
+<br>
+ I hear my son yawn
+<br>
+ two rooms away
+<br>
+<br>
+ The rain appears to have stopped
+<br>
+<br>
+ but that bird’s returned
+<br>
+ with its 5-note song
+<br>
+<br>
+ Dear Philip,
+<br>
+ it’s 5:03 AM
+<br>
+ nine hours west of here
+<br>
+ three hours west of Hawai’i
+<br>
+<br>
+ I have to be careful now
+<br>
+ at the sight of the slightest spider
+<br>
+ It might be you
+<br>
+<br>
+ At dawn
+<br>
+ one finds moths
+<br>
+ gathered at the sink
+<br>
 <br>
  A pickup truck
- <br>
-in whose bed stand
 <br>
-upright tied tight
+ in whose bed stand
 <br>
-(bright orange straps) a dozen glass doors
+ upright
 <br>
-Today’s first jogger
+ tied tight
 <br>
-heading west along the canal
+ (bright orange straps)
 <br>
-on a side street the first power walker
+ a dozen glass doors
 <br>
-heading south
 <br>
-Another jogger
+ Today’s first jogger
 <br>
-(the first guy)
+ heading west along the canal
 <br>
-trotting thru these long shadows
 <br>
-he’s heading north
+ on a side street the first power walker
 <br>
-Nobody yet
+ heading south
 <br>
-walking their dog
 <br>
-tho I hear one
+ Another jogger
 <br>
-a few doors away
+ (the first guy)
 <br>
-The one we call Psycho Dog loves to hurl himself
+ trotting thru
 <br>
-against the electronic fence
+ these long shadows
 <br>
-This jogger returns limping
 <br>
-O very pale golden lab
+ he’s heading north
 <br>
-nose down
 <br>
-checking the odors
+ Nobody yet
 <br>
-as it walks
+ walking their dog
 <br>
-Majestic blue heron threads the sky
+ tho I hear one
 <br>
-Quick enough rain storm
+ a few doors away
 <br>
-but now all the lawn chairs are soaked
 <br>
-Quiet enough
+ The one we call Psycho Dog
 <br>
-I can hear the guy next door
+ loves to hurl himself
 <br>
-talking on the phone
+ against the electronic fence
 <br>
-
-“Okay”
 <br>
-he says
+ This jogger returns
 <br>
-accenting each syllable the second drawn out
+ limping
 <br>
-nearly becomes two
 <br>
-An old cheese stick in the car just as good as ever
+ O very pale golden lab
 <br>
-What are the lines
+ nose down
 <br>
-What are the words
+ checking the odors
 <br>
-I need
+ as it walks
 <br>
 <br>
+ Majestic blue heron
 <br>
-to make sense
+ threads the sky
 <br>
 <br>
-of my life?
+ Quick enough rain storm
 <br>
+ but now all the lawn chairs are soaked
 <br>
-right at the edge
 <br>
+ Quiet enough
 <br>
-about to recognize a feeling
+ I can hear the guy next door
 <br>
+ talking on the phone
 <br>
-& you! meaning me
+ “Okay”
 <br>
+ he says
 <br>
-you had to jump right in you always do that
+ accenting each syllable
 <br>
+ the second drawn out
 <br>
-But it’s not I wanted to say later
+ nearly becomes two
 <br>
 <br>
-driving the dark road north it’s not about feeling
+ An old cheese stick in the car
 <br>
+ just as good as ever
 <br>
-Y has so many
 <br>
+ What are the lines
 <br>
-he’s paralyzed by the weight of them
+ What are the words
 <br>
+ I need
 <br>
-it’s about doing
+ to make sense
 <br>
+ of my life?
 <br>
-he needs to do something
 <br>
+ Oooh, scolds X,
 <br>
-Anything at all
+ he was right there
 <br>
+ right at the edge
 <br>
-Giant yellow telescope at midtown highrise window
+ about to recognize a feeling
 <br>
 <br>
-not for the sky
+ & you!
 <br>
+ meaning me
 <br>
-but to glimpse neighbors fucking
+ you had to jump right in
 <br>
+ you always do that
 <br>
-The lone skylight was in the second bathroom
 <br>
+ But it’s not
 <br>
-A pile of towels where I hope to sit
+ I wanted to say later
 <br>
+ driving the dark road north
 <br>
-hop to site
+ it’s not about feeling
 <br>
+ Y has so many
 <br>
-Oooh, scolds X,
+ he’s paralyzed by the weight of them
 <br>
+ it’s about doing
 <br>
-he was right there
+ he needs to do something
+<br>
+ Anything at all
+<br>
+<br>
+ Giant yellow telescope
+<br>
+ at midtown highrise window
+<br>
+ not for the sky
+<br>
+ but to glimpse neighbors fucking
+<br>
+<br>
+ The lone skylight
+<br>
+ was in the second bathroom
+<br>
+<br>
+ A pile of towels
+<br>
+ where I hope to sit
+<br>
+<br>
+ hop to sit
 <br>
 <br>
  How to position
- <br>
- <br>
 <br>
-the cycle of texts
+ the cycle of texts
 <br>
-like knowing
 <br>
-for each line
+ like knowing
 <br>
-where to draw
+ for each line
 <br>
-the left margin
+ where to draw
 <br>
-This howl is my Howl dog’s growl
+ the left margin
 <br>
-inflected by wagging tail
 <br>
-Hail to the clef Cliff note
+ This howl is my Howl
 <br>
-Smallest distance between beats of the heart
+ dog’s growl
 <br>
-I saw my mother married only as a toddler
+ inflected by wagging tail
 <br>
-Try to fathom now
 <br>
-all the difference
+ Hail to the clef
 <br>
-that’s made
+ Cliff note
 <br>
-A tall page
 <br>
-to stand for ages Truman is still President
+ Smallest distance between
 <br>
-Tho I don’t yet know
+ beats of the heart
 <br>
-quite what that means
+<br>
+ I saw my mother married
+<br>
+ only as a toddler
+<br>
+<br>
+ Try to fathom now
+<br>
+ all the difference
+<br>
+ that’s made
+<br>
+<br>
+ A tall page
+<br>
+ to stand for ages
+<br>
+ Truman is still President
+<br>
+<br>
+ Tho I don’t yet know
+<br>
+ quite what that means
+<br>
 <br>
 If a fountain pen
 <br>
 where then is the fountain?
 <br>
+<br>
 The soprano sings
 <br>
-Come All Ye Fair & Tender Maidens
+Come All _Ye Fair & Tender Maidens_
 <br>
-while the baritone with somewhat less flash
+while the baritone
 <br>
-intones On Top Of Old Smoky
+with somewhat less flash
 <br>
-the percussion quartet hyperactive but surprisingly quiet
+intones _On Top_
+<br>
+_Of Old Smoky_
+<br>
+the percussion quartet
+<br>
+hyperactive but surprisingly quiet
 <br>
 more space between notes than within
 <br>
-What one hears decades on
+<br>
+What one hears
+<br>
+decades on
 <br>
 will differ
 <br>
- An auditorium filled with white hair
- <br>
-(Who will hear George Crumb
+An auditorium filled
+<br>
+with white hair
+<br>
+(Who will hear
+<br>George Crumb
 <br>
 once his generation’s gone?)
 <br>
-I don’t sculpt Google nor ogle giggles
 <br>
-but each letter is somehow carved
+I don’t sculpt Google
+<br> nor ogle giggles
 <br>
-from what? from who?
+but each letter
+<br>
+is somehow carved
+<br>
+from what?
+<br>
+from who?
 <br>
 from how
 <br>
-From here I look out on a room that my children
 <br>
-might imagine as primal as I do that one
+From here I look out on a room
+<br>
+that my children
+<br>
+might imagine as primal
+<br>
+as I do that one
 <br>
 gone so long ago
 <br>
-The television in the corner to the right of the fireplace
+<br>
+The television in the corner
+<br>
+to the right of the fireplace
 <br>
 in front of a case
 <br>
 filled with books
 <br>
-The Big Book of Little Stanzas
+<br>
+The Big Book
+<br>
+of Little Stanzas
+<br>
 <br>
 including the one
 <br>
@@ -456,13 +616,21 @@ to write
 <br>
 right here
 <br>
-Bowl of frozen meatballs microwaved
+<br>
+Bowl of frozen meatballs
+<br>
+microwaved
 <br>
 for my son’s breakfast
 <br>
-fills the air eau d’ meat
+fills the air
 <br>
-The great busyness of dreams does not survive
+eau d’ meat
+<br>
+<br>
+The great busyness of dreams
+<br>
+does not survive
 <br>
 the violence
 <br>
@@ -470,45 +638,28 @@ of the electronic toothbrush
 <br>
 placed in one’s head
 <br>
+<br>
 What was I doing?
+<br>
 <br>
 Am I doing it still?
 <br>
-Few & far between
 <br>
-expectations of privacy
+Some threat to the dream
 <br>
-2 hidden assumptions the line, the margin
+but vague
 <br>
-An old song from World War I
-<br>
-By using a notebook, do I become quaint?
-<br>
-Magnetized hooks
-<br>
-on the side of the fridge
-<br>
-Some Civil War vets still were alive
-<br>
-when I was a child
-<br>
-The “paper boy”
-<br>
-is a middle-aged man
-<br>
-in a large sedan
-<br>
-Over There
-<br>
- Some threat to the dream but vague
- <br>
 & not immediate
+<br>
 <br>
 So that all I recall
 <br>
 is the desert climate
 <br>
-warm but not oppressive the sun in great quantity
+warm but not oppressive
+<br>
+the sun in great quantity
+<br>
 <br>
 Word order in Turkish
 <br>
@@ -516,13 +667,19 @@ matters far less
 <br>
 enabling different forms of play
 <br>
-Man bites dog well not quite
+<br>
+Man bites dog
+<br>
+well not quite
+<br>
 <br>
 With that much room
 <br>
 I’d never back out of the driveway
 <br>
+<br>
 The Age of Melted Wax
+<br>
 <br>
 NCIS
 <br>
@@ -530,22 +687,66 @@ not the agency
 <br>
 the show is all about
 <br>
-
-you could track the history
+expectations of privacy
+<br>
+<br>
+Few & far between
+<br>
+2 hidden assumptions
+<br>
+the line, the margin
+<br>
+An old song
+<br>
+from World War I
+<br>
+_Over There_
+<br>
+<br>
+By using a notebook, do I become quaint?
+<br>
+<br>
+Magnetized hooks
+<br>
+on the side of the fridge
+<br>
+Some Civil War vets
+<br>
+still were alive
+<br>
+when I was a child
+<br>
+<br>
+The “paper boy”
+<br>
+is a middle-aged man
+<br>
+in a large sedan
+<br>
+<br>
+you could track
+<br>
+the history
 <br>
 not just of
 <br>
 retail capital
 <br>
-but of technology itself through the rise
+but of technology itself
+<br>
+through the rise
 <br>
 & later demise
 <br>
 of the video store
 <br>
-Tasteless “dots” marketed as
+<br>
+Tasteless “dots”
+<br>
+marketed as
 <br>
 The Future of Ice Cream
+<br>
 <br>
 The way the Beats distrusted
 <br>
@@ -553,13 +754,16 @@ Ferlinghetti’s sense of business
 <br>
 while sending City Lights their manuscripts
 <br>
+<br>
 Each sentence fills with sorrow
 <br>
-What if history itself should not endure?
+What if history itself
+<br>
+should not endure?
 <br>
 Joe Brainard’s
 <br>
-Nancy as an ashtray
+_Nancy as an ashtray_
 <br>
 reflects a curious misogyny
 <br>
@@ -568,6 +772,11 @@ A bias
 in haiku
 <br>
 against titles
+<br>
+<br>
+The winter of
+<br>
+short skirts
 <br>
 & long boots
 <br>
@@ -579,15 +788,20 @@ I climb the long stairs
 <br>
 to the floor on which
 <br>
-in the far rear corner they stock poetry
+in the far rear corner
 <br>
-Outside, from a card table an old couple
+they stock poetry
 <br>
-sell plates from Iznik A young man pops in my face
+Outside, from a card table
 <br>
-The winter of short skirts
+an old couple
 <br>
- to implore
- <br>
+sell plates from Iznik
+<br>
+A young man pops in my face
+<br>
+to implore
+<br>
 Will you save a mountain tonight?
+<br>
 <br>
