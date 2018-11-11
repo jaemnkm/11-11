@@ -14,7 +14,7 @@ I looked in my bank account
 <br>
 <br>
 It said, “you have five toilets to your name.”
-
+<br>
 It said, “don’t just sit there. Return fire.”
 <br>
 <br>
@@ -31,16 +31,17 @@ Talking head says, “ok scumbags, I talked to you like children; now you will b
 <br>
 <br>
 “Now I have to teach myself how to pass out sketches and throw pencils at pigeons when I retire”
-
+<br><br>
 “I don’t have any friends who would reprimand me anyway”
-
- “Retire to the ocean and walk backwards into the surf<br>pretending to fight off the weirdly dressed hordes”
+<br>
+“Retire to the ocean and walk backwards into the surf<br>pretending to fight off the weirdly dressed hordes”
  <br>
  <br>
-<div style="text-align:right; font-size:18px;"> -and I used to joke about being underwater.</div>
+<p style="text-align:right; font-size:18px;"> -and I used to joke about being underwater.</p>
 
 <br>
 Laughed at the people stealing my cigarettes
+<br>
 Laughed at the people pretending to tie my shoes
 <br>
 <br>
@@ -55,7 +56,9 @@ Laughed at the people pretending to tie my shoes
 <br>
 “I should have never quit heroin,” we all say (all of the time)
 <br>
+<br>
 we started early.
+<br>
 twenty wagons appeared in a dream I had about the 7th grade.
 <br>
 <br>
@@ -66,14 +69,17 @@ _Eat your people today_
 <br>
 <br>
 _The top of the tornado starts under our shoe soles_
+<br>
 _And touches down on prison farms_
+<br>
 _Bibles offer no explanation_
+<br>
 _But one cool preacher has quite a laugh_
 <br>
 <br>
 _All looked up at our beautiful shoes_
 
-<div style="text-align:right; font-size:18px;">
+<p style="text-align:right; font-size:18px;">
 “You still keep that knife in the car.”
 <br>
 -the reality is
@@ -97,11 +103,11 @@ to protect religion,
 but not all of the time
 <br>
 <br>
-</div>
+</p>
 
-<div style="text-align:center; font-size:18px;">
+<p style="text-align:center; font-size:18px;">
 “I was watching her on my hands”
-
+<br>
 “even my imagination just sat there”
 <br>
 <br>
@@ -109,11 +115,11 @@ but not all of the time
 <br>
 <br>
 -the choir is done with you
-
+<br>
 done with all of us
 <br>
 <br>
-</div>
+</p>
 <br>
 _“We call those projects ‘The Jar’”_
 <br>
@@ -128,17 +134,18 @@ _we said as we aimed_
 <br>
 <br>
 _“lie down right over there._
-
+<br>
 _We hid the beds behind the trash”_
 <br>
 <br>
 _-the rest of the crash course came in the morning_
 <br>
 <br>
-<div style="text-align:right; font-size:18px;">
+<p style="text-align:center; font-size:18px;">
 “like you’ve never seen this card trick before
 <br>
 the one where your grandfather appears
+<br>
 <br>
 and throws a couple of people into a fire”
 <br>
@@ -146,31 +153,24 @@ and throws a couple of people into a fire”
 -just let it rockslide into that shot glass
 <br>
 <br>
-
 I should have talked to her
 <br>
 <br>
-
 instead I threw my whole life away
 <br>
 <br>
-
 I turned my back on my people, Lord
 <br>
 <br>
-
 left them for a trip up three flights of stairs
 <br>
 <br>
-
 now the whole freak show is on the back of my hand
 <br>
 <br>
-
 including capitalists looking up at the sky
 <br>
-<br>
-</div>
+</p>
 _what fascists are determined to do_
 <br>
 _does not scare most people_
@@ -181,7 +181,7 @@ _it makes most people bored,_
 _but we want our grandparents to survive…_
 <br>
 <br>
-<div style="text-align:center; font-size:18px;">
+<p style="text-align:right; font-size:18px;">
 Dear grandfather,
 <br>
 <br>
@@ -196,7 +196,7 @@ but all these chairs in here
 are mine.”
 <br>
 <br>
-</div>
+</p>
 Before I opened the door to the street
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I knocked
@@ -213,7 +213,7 @@ Of chalk outlines and window curtains
 littered across the earth’s city
 <br>
 
-<div style="text-align:right; font-size:18px;">
+<p style="text-align:right; font-size:18px;">
 Dear Bluesmen,
 <br>
 Now I am deader than you.
@@ -222,4 +222,4 @@ Please take your seats.
 <br>
 -the title of our song
 <br>
-</div>
+</p>
