@@ -83,4 +83,5 @@ I’m tired, stressed out, depressed—do you know why?
 The history of yesterday is repeated again.
 <br>
 <br>
+We were following the route taken by the Northern Alliance and U.S Army Special Forces, by foot, on horseback, and in trucks, in the first major offensive of the Afghanistan War (later celebrated in the feature film, _The Twelve_), stopping on the outskirts of Mazar-i-Sharif to stretch our legs and photograph, surreptitiously, Qali-i-Jangi, a nineteenth-century military garrison used after the city’s liberation to house Al Qaeda and Taliban prisoners of war. This was the site of an uprising in November 2001, which led to the deaths of nearly 500 prisoners and a CIA contractor named Johnny Spann—the first American casualty in what has come to be known as the Forever War. As the poet observed: “The history of yesterday is repeated again.”
 </p>
