@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Many Does To Go Or Turns The Pen"
+title: "Many Doses To Go Or Turns The Pen"
 author: "Tongo Eisen-Martin"
 authorURL: /tongo-eisen-martin/
 tag: 20181111
 categories: 2018fall
-permalink: /Many-Does-To-Go-Or-Turns-The-Pen/
+permalink: /Many-Doses-To-Go-Or-Turns-The-Pen/
 ---
 
 <br><br>
