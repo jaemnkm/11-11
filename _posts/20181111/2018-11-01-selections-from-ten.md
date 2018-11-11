@@ -52,10 +52,6 @@ an entrance.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 The breeze. The trees oblige.
 <br>
 Be still. Appease
@@ -69,10 +65,6 @@ nerve
 long
 <br>
 gone.
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -136,10 +128,6 @@ subsides.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 To be about this. Resistance bites.
 <br>
 I stretch into limits.
@@ -153,11 +141,6 @@ Blinded by
 a mind's
 <br>
 eye.
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -197,10 +180,6 @@ It becomes about death around now.
 _Oh_ _you._
 <br>
 To affix the loss away from.
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -264,10 +243,6 @@ at the scientist's swagger.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 Who are the bad guys raise your hand.
 <br>
 Well understandably you can't acquire assertiveness just by thinking. The milky sky retreats and she
@@ -304,10 +279,6 @@ seized.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 An elegant sheet of rain exquisite in its glow. "Where are you?"
 <br>
 "Where do the animals go?"
@@ -319,10 +290,6 @@ Neon pink and silver lines drown the peeping leaves. Aware and noting material i
 Aware the end is near.
 <br>
 Not a sheet of rain but shiny pane of glass.
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
