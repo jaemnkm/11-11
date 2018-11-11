@@ -8,6 +8,7 @@ categories: 2018fall
 permalink: /Rustams-Throne/
 ---
 
+<div sytle="line-height: 1.7em;">
 <br><br>
 <br><br>
 This story took place in northern Afghanistan, where I traveled in the spring of 2016 on a cultural diplomacy mission for the U.S. Department of State. The roads are dangerous: between improvised explosive devices (IEDs), erratic drivers, and a general lack of traffic police (TARFFIC was what I saw emblazoned on one police car), I knew I was taking my life into my hands whenever I climbed into a car. In the provincial capital of Mazar-i-Sharif, my interpreter warned me not to fasten my seat belt, since this would signal to any Taliban we encountered that I was a Westerner. For a day trip to Samangan, a central province north of the Hindu Kush Mountains, I was advised to wear a set of loose-fitting Afghan clothes delivered to my guest house, a light-green _shalwar_ and _kameez_, which were very comfortable, and the two-hour drive south on the road to Kabul, across deserts, through canyons, along rivers and fields, with poppies blooming and traces of the full moon visible in the blue sky, lulled me into the peaceful state of mind that in my experience sometimes presages catastrophe. I covered the war in Bosnia, including the siege of Sarajevo, the longest in modern history, and whenever I found myself thinking nothing much was happening, which is not unusual in a war zone, all hell would break loose, often within a matter of minutes.
@@ -81,3 +82,4 @@ I’m tired, stressed out, depressed—do you know why?
 The history of yesterday is repeated again.
 <br>
 <br>
+</div>

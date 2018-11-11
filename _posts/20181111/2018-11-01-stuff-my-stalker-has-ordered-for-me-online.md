@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Stuff My Stalker Has Ordered for Me Online"
-author: "Miranda Mellis"
-authorURL: /miranda-mellis/
+author: "Dodie Bellamy"
+authorURL: /dodie-bellamy/
 tag: 20181111
 categories: 2018fall
 permalink: /Stuff-My-Stalker-Has-Ordered-for-Me-Online/
@@ -10,7 +10,7 @@ permalink: /Stuff-My-Stalker-Has-Ordered-for-Me-Online/
 
 <br><br>
 <br><br>
-<img style="align:center; width:20vw;" src="{{site.baseurl}}/assets/20181111/stalker.jpg" alt="">
+<img style="align:center; width:40vw;" src="{{site.baseurl}}/assets/20181111/stalker.jpg" alt="">
 <br><br>
 
 <br><br>
