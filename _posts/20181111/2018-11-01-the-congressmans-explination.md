@@ -10,6 +10,7 @@ permalink: /The-Congressmans-Explanation/
 
 <br><br>
 <br><br>
+<p sytle="lline-height: 1.5;">
 If you live in your car, I don’t have to worry about you not being able to pay rent
 <br>
 If you eat scraps from a dumpster, I don’t have to worry about you stealing food
@@ -58,3 +59,4 @@ If you live in your car, I don’t have to worry about the next election
 <br>
 Because you will be gone, one way or another
 <br>
+</p>
