@@ -68,5 +68,3 @@ Tenderly,
 <br>
 Remorselessly.
 <br>
-
-</p>
