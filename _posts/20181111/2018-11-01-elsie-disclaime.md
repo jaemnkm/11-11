@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elsie (Disclaime)"
+title: "Elsie (Disclaimer)"
 author: "Laura Mullen"
 authorURL: /laura-mullen/
 tag: 20181111
