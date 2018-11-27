@@ -13,8 +13,9 @@ permalink: /On-Being-Humpty-Dumpty/
 <img style="display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/humpty.png" alt="">
 <br><br>
 > Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall.
-All the king's horses and all the king's men Couldn't put Humpty together again.
--- English Nursery Rhyme
+> All the king's horses and all the king's men Couldn't put Humpty together again.
+>
+> —English Nursery Rhyme
 
 <br><br>
 <br><br>
@@ -57,7 +58,7 @@ Later, neither my oncologist, nor myself, could remember why she’d ordered it.
 
 **Flying**
 <br><br>
-Four months and five rounds of chemo later, I have another scan. A new semester has begun, and I am teaching my classes in little scarf-y caps, to cover my baldness, and a compression sleeve, with a henna tattoo pattern, for my lymphedema. I feel vulnerable and self-conscious—also, like a pirate. Argh.
+Four months and five rounds of chemo later, I have another scan. A new semester has begun, and I am teaching my classes in little scarf-y caps, to cover my baldness, and a compression sleeve with a henna tattoo pattern, for my lymphedema. I feel vulnerable and self-conscious—also, like a pirate. Argh.
 <br><br>
 The news is good. The nodes in my lungs have shrunk by 30 to 50 percent. The largest one is now only about nine by seven millimeters. My oncologist tells me I can go off chemo, though I will continue to get two targeted drugs every three weeks. I am elated. No chemo means my hair will grow back. It means more energy, hopefully less dopiness. Most importantly, it means no more cytotoxins pumped into my body.
 <br><br>
@@ -65,7 +66,7 @@ Then, in the midst of my relief and celebration, it dawns on me, (though it feel
 <br><br>
 I don’t know what to do with this stark knowledge, this sudden awareness of a future doled out four beats to a measure. Can I count on chemo brain to make me forget? My whole life I have had trouble with anxiety, with looking back on past gaffes, and forward to certain doom—but pessimism is a luxury I can no longer afford. Somehow, I’m going to have to learn to live between the scans, and beyond them, to breathe in the intervals, and through to the other side.
 <br><br>
-Two weeks before the scan, it is summer. I am on the Big Island of Hawaii, celebrating my mother’s 80th birthday. My brother treats us to a day cruise, where we snorkel off rocky coves, amid neon fish made up like clowns and movie actresses. On the way back, we encounter a pod of dolphins. There are at least thirty or more, some of them babies, playing, jumping, swimming all around our boat. I have never seen dolphins up close, and I can’t believe how magnificent they are, how seemingly delighted to share our company. One of them, quite nearby, leaps up, its sleek, gray back streaming water in sunlight. It corkscrews around to face me, grinning, quite obviously pleased with itself, before plunging back into the depths. We humans laugh like children. It lasts only a few seconds, but it’s a gorgeous display of pure joy, and it feels to me like benediction.
+Two weeks before the scan, it is summer. I am on the Big Island of Hawaii, celebrating my mother’s 80th birthday. My brother treats us to a day cruise, where we snorkel off rocky coves, amid neon fish made up like clowns and movie actresses. On the way back, we encounter a pod of dolphins. There are at least 30 or more, some of them babies, playing, jumping, swimming all around our boat. I have never seen dolphins up close, and I can’t believe how magnificent they are, how seemingly delighted to share our company. One of them, quite nearby, leaps up, its sleek, gray back streaming water in sunlight. It corkscrews around to face me, grinning, quite obviously pleased with itself, before plunging back into the depths. We humans laugh like children. It lasts only a few seconds, but it’s a gorgeous display of pure joy, and it feels to me like benediction.
 <br><br>
 <br><br>
 **V.**

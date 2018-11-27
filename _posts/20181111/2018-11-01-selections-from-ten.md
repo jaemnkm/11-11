@@ -104,9 +104,9 @@ but below is what looks like brush,
 <br>
 wiry plants slanting where the sun
 <br>
-ascends. Miraculously all remain still,
+ascends. Miraculously all remain
 <br>
-though her cry tilts the words
+still, though her cry tilts the words
 <br>
 so slightly. The leaning tower
 <br>
@@ -309,9 +309,9 @@ An elegant sheet of rain exquisite in its glow.
 <br>
 "Where do the animals go?"
 <br>
-Nature droops weighted from water and yet
+Nature droops weighted from water and yet more
 <br>
-more beautiful "Which outfit is prettier?"
+beautiful "Which outfit is prettier?"
 <br>
 Neon pink and silver lines drown the peeping
 <br>

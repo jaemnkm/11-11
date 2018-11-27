@@ -22,6 +22,7 @@ I tapped a knuckle, and he smiled. He opened his hand and there lay the White Ra
 <br>
 Who could resist? The white wrappers with the red and blue bands, the outline of the rabbit on the side. I untwisted the wrapper and found another piece of clear plastic around the white taffy, which I tried to peel off, but Ye-ye shook his head, and showed me how to put the candy on my tongue. Miracle of miracles, the "plastic" wrap began to melt. It was paper made from rice paste, and it dissolved like a communion wafer on my tongue, revealing the sweet taffy beneath. This was what love tasted like when I was three: like magic and sugar and pounded rice paste.
 <br>
+<br>
 My mother and father didn't want me to eat candy. They said candy would rot my teeth out. But eating White Rabbits was a religious experience for me now. There was no turning back.
 <br>
 <br>
@@ -43,7 +44,7 @@ Ye-ye and I only got lost once.
 By then I was six, and Nathan had an earache. It seemed to last the entire summer. He cried all the time. Mama was irritable. Everything I did made her tense. Same old.
 <br>
 <br>
-We began as we always had. Ye-ye and I walked hand-in-hand up the shaded sidewalks before the sun had risen high enough to burn the dew off and scorch the air. Then we went a little farther than usual, all the way to the corner, and then across that street, and up the block to the big house with gray turrets and large dense fruit trees. The owners were an elderly white couple and they had pomegranates. I'd gone on a fieldtrip for kindergarten and I remembered the way.
+We began as we always had. Ye-ye and I walked hand-in-hand up the shaded sidewalks before the sun had risen high enough to burn the dew off and scorch the air. Then we went a little farther than usual, all the way to the corner, and then across that street, and up the block to the big house with gray turrets and large dense fruit trees. The owners were an elderly white couple and they had pomegranates. I'd gone on a field trip for kindergarten and I remembered the way.
 <br>
 <br>
 The nice couple had picked pomegranates from their trees and sliced them open and placed them on picnic tables covered with plastic red-and-white tablecloths. We'd all been given a quarter pomegranate to suck the seeds out of.
@@ -85,7 +86,7 @@ We walked another block. Ye-ye followed me, patiently, trusting me.
 The sun was moving higher in the sky, the shadows retreating, but I didn't feel safe yet from the inky shaded witchy house. We walked and walked. And then I was lost.
 <br>
 <br>
-I knew we should turn. We turned and turned but what should have been our street, our house, our copse of avocado trees, was a different house, one with a chain-link fence and a large German shepherd with nicked ears staring through the wire. The dog barked, his harsh voice like electric volts to my heart.
+I knew we should turn. We turned and turned but what should have been our street, our house, our copse of avocado trees, was a different house, one with a chain-link fence and a large German Shepherd with nicked ears staring through the wire. The dog barked, his harsh voice like electric volts to my heart.
 <br>
 <br>
 Ye-ye felt it, and gripped my hand too tightly, it hurt my fingers, and he pulled me along, but he couldn't walk very fast. Still he pulled me alongside him, and I didn't dare say Ouch, until we were out of range of the dog, a block and a turn away. We could hear the echo of his bark, but he was nowhere to be seen, and he surely couldn't see us either, I hoped.
@@ -109,7 +110,7 @@ No, Ye-ye, I prayed. We can't stop.
 Ye-ye understood, and we kept walking.
 <br>
 <br>
-The sun was very high overhead, and it was hot. Ye-ye was wearing his long sleeved jacket, and he stopped and took it off, and folded it into half, and half again, and tucked it under his arm.
+The sun was very high overhead, and it was hot. Ye-ye was wearing his long sleeved jacket, and he stopped and took it off, and folded it in half, and half again, and tucked it under his arm.
 <br>
 <br>
 He took my right hand again in his left. My hand was hot and sticky and sweaty, but still he held me tightly.
@@ -163,7 +164,7 @@ Ye-ye said something to Papa in Chinese that I couldn't understand and Papa said
 Then Mama said, "Ning-ning, what were you thinking?"
 <br>
 <br>
-That's how it was, ever since Nathan was born. I was blamed for every thing that went wrong. His illness, his crying all the time, his having to go to the hospital, all the tests, all the doctors.
+That's how it was, ever since Nathan was born. I was blamed for everything that went wrong. His illness, his crying all the time, his having to go to the hospital, all the tests, all the doctors.
 <br>
 <br>
 "Ning-ning, I'm ashamed of you. You know you're not supposed to leave the house alone. What has gotten into you?"
@@ -202,7 +203,7 @@ The old man who sat in the guardhouse at the gate politely took a handful but th
 My Chinese roommate looked on in horror. "My grandmother liked those," she said.
 <br>
 <br>
-I knew I was a disappointment to her. This whole mixed-nationality roommate situation was an experiment on campus, a sign of China's emergence from decades of seclusion, and was supposed to be an honor. My roommate had signed up and gone through some kind of rigorous screening process. She had been promised an American, and she'd expected some chic blonde white girl with exotic ways and instead she got me, a Chinese American with cheap taste.
+I knew I was a disappointment to her. This whole mixed-nationality roommate situation was an experiment on campus, a sign of China's emergence from decades of seclusion, and was supposed to be an honor. My roommate had signed up and gone through some kind of rigorous screening process. She had been promised an American, and she'd expected some chic, blonde white girl with exotic ways and instead she got me, a Chinese American with cheap taste.
 <br>
 <br>
 Back in our room she pulled out a Toblerone roll from the drawer of her desk and popped a piece in her mouth to make her point.
