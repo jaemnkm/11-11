@@ -2,7 +2,7 @@
 layout: profile
 title: "Vanessa Kauffman Zimmerly"
 bio: "Editorial Manager"
-image:
+image: VKZ.JPG
 tag: 20181111
 categories: masthead
 permalink: /vanessa-kauffman-zimmerly/

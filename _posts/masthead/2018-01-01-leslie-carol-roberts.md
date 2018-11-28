@@ -2,7 +2,7 @@
 layout: profile
 title: "Leslie Carol Roberts"
 bio: "Editorial Director"
-image:
+image: LCR.jpg
 tag: 20181111
 categories: masthead
 permalink: /leslie-carol-roberts/

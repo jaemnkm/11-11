@@ -2,7 +2,7 @@
 layout: profile
 title: "William Felker"
 bio: "Design Director"
-image:
+image: william-felker.JPG
 tag: 20181111
 categories: masthead
 permalink: /william-felker/
