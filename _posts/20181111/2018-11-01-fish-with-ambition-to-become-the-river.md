@@ -30,13 +30,19 @@ Talking head says, “ok scumbags, I talked to you like children; now you will b
 “Market Street” is the best two-word joke I have ever heard in San Francisco
 <br>
 <br>
-“Now I have to teach myself how to pass out sketches and throw pencils at pigeons when I retire”
+“Now I have to teach myself how to pass out sketches and throw pencils at pigeons
+
+<br>when I retire”
 <br><br>
 “I don’t have any friends who would reprimand me anyway”
 <br>
-“Retire to the ocean and walk backwards into the surf<br>pretending to fight off the weirdly dressed hordes”
+
+"Retire to the ocean and walk backwards into the surf"
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pretending to fight off the weirdly dressed hordes
  <br>
  <br>
+
 <p style="text-align:right; font-size:18px;"> -and I used to joke about being underwater.</p>
 
 <br>
@@ -45,10 +51,14 @@ Laughed at the people stealing my cigarettes
 Laughed at the people pretending to tie my shoes
 <br>
 <br>
-“now I have to put charcoal under the classroom and do impossible things with tap water”
+“now I have to put charcoal under the classroom and do impossible things with tap
+
+<br>water”
 <br>
 <br>
-“leave the window open so that the most respectful rats will come in and white enlightenment will have something to ponder.”
+“leave the window open so that the most respectful rats will come in and white
+
+<br>enlightenment will have something to ponder.”
 <br>
 <br>
 -oh what machines may come
@@ -146,7 +156,6 @@ _-the rest of the crash course came in the morning_
 <br>
 the one where your grandfather appears
 <br>
-<br>
 and throws a couple of people into a fire”
 <br>
 <br>
@@ -171,6 +180,7 @@ now the whole freak show is on the back of my hand
 including capitalists looking up at the sky
 <br>
 </p>
+
 _what fascists are determined to do_
 <br>
 _does not scare most people_

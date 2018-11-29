@@ -12,3 +12,13 @@ Laura Mullen is the author of eight books: _Complicated Grief_, _Enduring Freedo
 
 
 <h3 style="padding: 5vh 0 1vh 0;">Fall 2018 Issue</h3>
+<ul class="collection-list">
+  <li><a href="{{site.baseurl}}/Scream/">Scream</a></li>
+  <li><a href="{{site.baseurl}}/Elsie-Disclaimer/">Elsie (Disclaimer)</a></li>
+  <li><a href="{{site.baseurl}}/Elsie-The-Coward/">Elsie The Coward</a></li>
+  <li><a href="{{site.baseurl}}/Elsie-Doesnt-Mind/">Elsie Doesn't Mind</a></li>
+  <li><a href="{{site.baseurl}}/El-C-the-C/">El C the C</a></li>
+  <li><a href="{{site.baseurl}}/The-Imaginary-Begins/">The Imaginary Begins</a></li>
+  <li><a href="{{site.baseurl}}/C-Section/">C Section</a></li>
+  <li><a href="{{site.baseurl}}/Queen-of-Muses/">Queen of Muses</a></li>
+</ul>

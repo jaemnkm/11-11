@@ -31,11 +31,11 @@ Stuck with one of those cultures that believes I chose this family
 
 
 
-
 <p style="text-align:right; ">
 I am not creative
 <br>
 Just the silliest of the revolutionaries
+<br>
 <br>
 Conversing with the psychic middleman
 <br>
@@ -52,9 +52,9 @@ A little more realistically
 
 <p style="text-align:left; ">
 <br>
-Our eyesight returning to red/Notepad swimming to red/Bracing for the
+Our eyesight returning to red/Notepad swimming to red/Bracing for the medicine's
 <br>
-medicine’s recoil
+recoil
 <br><br>
 I need my left hand back 
 <br>
@@ -71,10 +71,12 @@ Watching the universe’s last metronome
 
 
 
+
 <p style="text-align:right; ">
 Just wait…
 <br>
 These religions will start resigning in a decade or two
+<br>
 <br>
 Some colorfully 
 <br>
@@ -82,6 +84,7 @@ Some transactionally
 <br>
 In a cotton gothic society
 </p>
+
 <br>
 Class betrayal gone glassless/ I mean ironically/ my window started fogging over too 
 
