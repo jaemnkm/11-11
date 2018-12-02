@@ -92,6 +92,9 @@ p{
     color: #000000;
     text-align: center;
   }
+  h3{
+    font-family: Fabrik-Regular;
+  }
   p{
     font-family: 'Work Sans';
     font-size: 24px;
@@ -116,6 +119,9 @@ p{
     color: #000000;
     text-align: left;
     padding: 0 0 0 0;
+  }
+  h3{
+    font-family: Fabrik-Regular;
   }
   p{
     font-family: 'Work Sans';
@@ -144,7 +150,7 @@ p{
     padding: 0.5vh 0 0.5vh 0;
   }
 a:hover{
-  color: #000000;
+
 }
 a::after {
   position: absolute;
@@ -180,6 +186,9 @@ a:hover::after {
     color: #000000;
     text-align: left;
   }
+  h3{
+    font-family: Fabrik-Regular;
+  }
   p{
     font-family: 'Work Sans';
     font-size: 24px;
@@ -208,6 +217,7 @@ a:hover::after {
     padding: 0 0 0 0;
   }
   h3{
+    font-family: Fabrik-Regular;
     text-align: left;
     font-size:20px;
   }
