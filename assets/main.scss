@@ -164,6 +164,11 @@ a:hover::after {
   .space{
     padding: 10vh 0 10vh 0 ;
   }
+  // img{
+  // border: 0.5px solid;
+  // padding: 5px;
+  // box-shadow: 5px 5px #FFEF2E;
+  // }
 }
 
 .post-section-head{
@@ -377,13 +382,13 @@ Issue
     text-decoration: none;
   }
   .card{
-    padding:0 0 0 0;
+    padding: 7.5vh 0 0 2vw;
      word-wrap: break-word;
      background-color: transparent;
      background-clip: none;
      border: none;
      border-radius: none;
-     
+
   }
   a{
     font-size: 24px;
