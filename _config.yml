@@ -9,9 +9,9 @@ google_analytics: 122471875-3
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:
+  url:
+  email:
 
 # Build settings
 markdown:       kramdown
