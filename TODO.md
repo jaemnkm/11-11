@@ -23,7 +23,6 @@
 - [ ] Indent paragraphs for Fullness of Being
 - [ ] Add links to Timothy Morton's work in bio
 - [ ] Add in second author Oliver Baez
-- [ ] Add in second author Oliver Baez
 
 ### Notes
 
