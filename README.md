@@ -56,17 +56,6 @@ If errors related to publc_suffix verison
 
     bundle exec jekyll -v
 
-## Launch Local Server
-
-To launch the Jekyll web server locally
-
-Make sure to be in the main project directory
-
-    jekyll serve
-
-If there are issues related to public_suffix verison
-
-bundle exec jekyll serve
 
 ### Installing on MacOS
 
@@ -93,3 +82,15 @@ If there are issues related to public_suffix
 Local web server 
 
 	http://127.0.0.1:4000
+
+## Launch Local Server
+
+To launch the Jekyll web server locally
+
+Make sure to be in the main project directory
+
+    jekyll serve
+
+If there are issues related to public_suffix verison
+
+bundle exec jekyll serve
