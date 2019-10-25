@@ -8,22 +8,13 @@ categories: 2018fall
 permalink: /fullness-of-being/
 ---
 
-<img style="display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/face_Tim_Morton.jpeg" alt="">
+Public lecture delivered April, 2019, to culminate the first ECOPOESIS gathering at California College of the Arts, San Francisco
+
 <br><br>
 
 >“The idea that alienation is being cut off from the future, the possibility that things might be different, has become very easy to think, and very good to think. All this has some consequences for art.”
 
-<p sytle="line-height: 2;">
-<br><br>
-<br><br>
-Rita Shea Guffey Chair in the Environmental Humanities
-Rice University
-<br><br>
-Public lecture delivered April, 2019, to culminate the first ECOPOESIS gathering at California College of the Arts, San Francisco
-<br><br>
-<br><br>
-In April 2019, the Architectural Ecologies Lab and the MFA Writing Program at California College of the Arts invited 48 guests to attend the first gathering of the ECOPOESIS Movement in San Francisco. Founded in 2018 by Christopher Falliers, Adam Marcus, and Leslie Carol Roberts, all CCA professors, the project explores ideas of how we talk about and message climate change -- and more broadly ecologies. The goal was to generate collective, embodied messaging, which in turn would activate more conversations, and so on. Core to the project are “signal words,” all which begin with the letters “re-.” In April, the signal words were retreat, remain, resist, and the group was divided into three sections -- with each taking one of the words for guidance. The guests were artists, writers, designers,journalists, graduate students, national park supervisors, academics from varied institutions, nonprofit administrators, selected for their varying lenses and expertise. Further focus was added by inviting Timothy Morton, author of Dark Ecologies and other ecological books, to serve as another reference point. An excerpt of Dark Ecologies was read by the group prior to the gathering. A cornerstone of ECOPOESIS is gathering at the table for food  and conversation in an informal setting. One-and-a-half days and four meals later, the group presented their work and wrapped up with this public talk by Morton, who generously offered to 11.11 the chance to publish his remarks.
-<br><br>
+<p style="line-height: 2;">
 <br><br>
 “Most ecological and plenty of non-ecological theories of alienation exist. Most of them state that we are alienated from a past where things were better, or perfect. But this is just the notion of the Fall, translated into some other mode, and that narrative is one way in which agricultural societies talk about the damage they have already done. The inherent speciesism (“nature” versus human culture) of this model is historically bankrolled by racism and patriarchy.
 There’s another way of thinking about alienation, logically, and luckily there are ways of showing that it’s true: if we aren’t alienated from the past we are alienated from the future.
