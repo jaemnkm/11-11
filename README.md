@@ -8,7 +8,7 @@
 
 ## Development Environment
 
-Install on WLS
+### Install on WLS
 
 Update and Upgrade
 
@@ -67,3 +67,29 @@ Make sure to be in the main project directory
 If there are issues related to public_suffix verison
 
 bundle exec jekyll serve
+
+### Installing on MacOS
+
+Check Ruby verison on terminal
+
+	ruby -v
+
+Jekyll needs ruby 2.6 at least
+
+Install correct ruby version and add it to path
+
+	PATH=$HOME/.gem/ruby/2.6.0/bin:$PATH
+
+If there issues related to rake
+
+	gem install bundler:1.16.6
+
+	bundle install --path vendor/cache
+
+If there are issues related to public_suffix
+
+	bundle exec jekyll serve
+
+Local web server 
+
+	http://127.0.0.1:4000

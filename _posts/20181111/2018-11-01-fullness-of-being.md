@@ -9,6 +9,7 @@ permalink: /fullness-of-being/
 ---
 
 <img style="display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/face_Tim_Morton.jpeg" alt="">
+<br><br>
 
 >“The idea that alienation is being cut off from the future, the possibility that things might be different, has become very easy to think, and very good to think. All this has some consequences for art.”
 
