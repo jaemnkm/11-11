@@ -1,19 +1,12 @@
-# TODO Overvoew
+# TODO Overview
 
 ## Need to do
 
-- [ ] Change Copyright and Logo
+- [ ] Change Logo
 - [ ] Mobile Layout
 - [ ] HTTP Redirect to HTTPS
-- [ ] Update Masthead
 - [ ] Google Analytics Tags
-- [ ] Create new Issue page FALL 2019 is Issue 2
-- [ ] Create Issue 1 page FALL 2018
 - [ ] Create hover drop down navigation for issues link
-- [ ] Remove Josepth Lease and Vanessa K. from Masthead
-- [ ] Add in the two new founding editors: Founding Editors: Youmna Chlala, Gayle Romasanta in Masthead
-- [ ] Put in subcategory Founding Editors and Editorial Team for Masthead
-- [ ] Add John Kim to Editorial team as Editorial Assistant for Masthead
 - [ ] Change the header image to Neon Pink for 2019
 
 ## In-Process
@@ -35,3 +28,11 @@ https://www.oliverbaezbendorf.com/about
 
 - [x] create TODO.md
 - [x] Move Timothy Morton bio into author page
+- [x] Change Copyright
+- [x] Add in the two new founding editors: Founding Editors: Youmna Chlala, Gayle Romasanta in Masthead
+- [x] Remove Josepth Lease and Vanessa K. from Masthead
+- [x] Put in subcategory Founding Editors and Editorial Team for Masthead
+- [x] Add John Kim to Editorial team as Editorial Assistant for Masthead
+- [x] Update Masthead
+- [x] Create Issue 1 page FALL 2018
+- [x] Create new Issue page FALL 2019 is Issue 2
