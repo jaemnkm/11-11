@@ -4,7 +4,7 @@ title: "Katherine Min"
 bio: ""
 image: Katherine Min_image.jpg
 tag: 20181111
-categories: authors
+categories: authors2018
 permalink: /katherine-min/
 ---
 

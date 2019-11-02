@@ -4,7 +4,7 @@ title: "Ron Silliman"
 bio: ""
 image: Silliman.jpg
 tag: 20181111
-categories: authors
+categories: authors2018
 permalink: /ron-silliman/
 ---
 

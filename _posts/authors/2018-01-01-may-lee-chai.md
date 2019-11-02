@@ -4,7 +4,7 @@ title: "May-lee Chai"
 bio: ""
 image: may-lee-chai.jpg
 tag: 20181111
-categories: authors
+categories: authors2018
 permalink: /may-lee-chai/
 ---
 

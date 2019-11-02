@@ -4,7 +4,7 @@ title: "Timothy Morton"
 bio: ""
 image: Timothy_Morton.jpeg
 tag: 20181111
-categories: authors
+categories: authors2019
 permalink: /timothy-morton/
 ---
 

@@ -10,15 +10,16 @@
 - [ ] Change the header image to Neon Pink for 2019
 - [ ] Home Page New Landing Page
 - [ ] Change text for Letter from the Editor
-- [ ] Add 2019 Fall Layer to People Page
-- [ ] Add another Editorial Assistant to Editorial Team
 
 ## In-Process
 
-- [ ] Add links to Timothy Morton's work in bio
-- [ ] Add in second author Oliver Baez
+- [ ] Add Gayle Romasanta Bio
+- [ ] Add Hannah Lamb-Vines Bio
+- [ ] Add John Kim Bio
 
 ### Notes
+
+What is Hannah Lamb-Vines Bio?
 
 Make sure to have the order of the authors by alphabetical order by last name.
 
@@ -39,3 +40,10 @@ https://www.oliverbaezbendorf.com/about
 - [x] Create new Issue page FALL 2019 is Issue 2
 - [x] Make the single quote at start of the page for Fullness of Being into design element
 - [x] Indent paragraphs for Fullness of Being
+- [x] Add links to Timothy Morton's work in bio
+- [x] Add in second author Oliver Baez
+- [x] Add in Oliver Baez's Cheers
+- [x] Add in Oliver Baez's Someone Quiet Down The Biodiverse “I”
+- [x] Add Youmna Chlala Bio
+- [x] Add another Editorial Assistant to Editorial Team: Hannah Lamb-Vines
+- [x] Add 2019 Fall Layer to People Page

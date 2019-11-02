@@ -4,7 +4,7 @@ title: "Dodie Bellamy"
 bio: ""
 image: dodie-bellamy.jpg
 tag: 20181111
-categories: authors
+categories: authors2018
 permalink: /dodie-bellamy/
 ---
 

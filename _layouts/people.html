@@ -25,34 +25,86 @@ layout: default
   </div>
 </div>
 <div class="container page-section">
-  <div class="col-12 space centered">
+    <div class="col-12 space">
+        <h2>Masthead</h2>
+        <br>
+        <h2>Founding Editors</h2>
+        <ul class="list-2">
+          <li><a href="{{site.baseurl}}/youmna-chlala/">Youmna Chlala</a></li>
+          <li><a href="{{site.baseurl}}/gayle-romasanta/">Gayle Romasanta</a></li>
+          <!-- {% for post in site.categories.masthead %}
+           <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }},<br>{{ post.bio }}</a></li>
+          {% endfor %} -->
+        </ul>
+        <br>
+        <h2>Editor-in-Chief</h2>
+        <ul class="list-2">
+            <li><a href="{{site.baseurl}}/leslie-carol-roberts/">Leslie Carol Roberts, <span style="display: block;">MFA, Professor and Chair. California College of the Arts, MFA in Writing Program</span></a></li>
+          <!-- {% for post in site.categories.masthead %}
+           <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }},<br>{{ post.bio }}</a></li>
+          {% endfor %} -->
+        </ul>
+        <br>
+        <h2>Associate Editors</h2>
+        <ul class="list-2">
+            <li><a href="{{site.baseurl}}/leslie-carol-roberts/">X</a></li>
+            <li><a href="{{site.baseurl}}/leslie-carol-roberts/">X</a></li>
+          <!-- {% for post in site.categories.masthead %}
+           <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }},<br>{{ post.bio }}</a></li>
+          {% endfor %} -->
+        </ul>
+        <br>
+        <h2>Editorial Assistants</h2>
+        <ul class="list-2">
+          <li><a href="{{site.baseurl}}/william-felker/">John Kim</a></li>
+          <li><a href="{{site.baseurl}}/william-felker/">Hannah Lamb-Vines</a></li>
+          <!-- {% for post in site.categories.masthead %}
+           <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }},<br>{{ post.bio }}</a></li>
+          {% endfor %} -->
+        </ul>
+        <br>
+        <h2>Design Director</h2>
+        <ul class="list-2">
+          <li><a href="{{site.baseurl}}/william-felker/">William Felker</a></li>
+          <!-- {% for post in site.categories.masthead %}
+           <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }},<br>{{ post.bio }}</a></li>
+          {% endfor %} -->
+        </ul>
+      </div>
+      <p><span style="font-weight: bold;font-style: italic;">Eleven Eleven {1111}</span> Journal of Literature and Art was founded in 2004 by Youmna Chlala and
+          Gayle Romasanta during their MFA in Writing at California College of the Arts. The vision of the
+          journal was to create a forum for risk and experimentation in both writing and visual art. It
+          developed an international presence while creating interdisciplinary opportunities within CCA.
+          Youmna Chlala served as the editor until 2007. Subsequent editors have included Brent Foster
+          Jones, Ben Lerner, Hugh Steinberg and Joseph Lease.</p>
+      <br>
+      <p>11.11 is now published once a year by the MFA Writing Program at California College of the
+          Arts, through a process where we gather our admired colleagues and pals to share some words.
+          The spare, open pages, and the brevity of offerings are meant to allow the reader the feeling of
+          reading, across the wide, white page, “cover to cover.” The idea is to invite readers and writers
+          into a digital town square of poetics, where the conversation is meant to be casual, exciting,
+          nourishing and inspiring – as though you ran into a smart friend, sat down for a coffee, and they
+          shared their thoughts across forms. We also hope it offers the really great feeling that you have
+          read it all, cover to cover.</p>
+          <br>
+      <h2>POLICIES</h2>
+      <h5>Correspondence should be directed to the California College of the Arts, MFA in Writing
+          Program, 11.11 journal, or via email to</h5>
+      <h5>We do not use Submittable and we do not accept unsolicited manuscripts.</h5>
+    <div class="col-12 space centered">
+      <h2>2019 Fall</h2>
+      <ul class="list-3">
+        {% for post in site.categories.authors2019 %}
+          <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="col-12 space centered">
     <h2>2018 Fall</h2>
     <ul class="list-3">
-      {% for post in site.categories.authors %}
+      {% for post in site.categories.authors2018 %}
        <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
-    </ul>
-  </div>
-  <div class="col-12 space">
-    <h2>Masthead</h2>
-    <br>
-    <h2>Founding Editors</h2>
-    <ul class="list-2">
-      <li><a href="{{site.baseurl}}/leslie-carol-roberts/">Youmna Chlala, Founding Editor</a></li>
-      <li><a href="{{site.baseurl}}/joseph-lease/">Gayle Romasanta, Founding Editor</a></li>
-      <!-- {% for post in site.categories.masthead %}
-       <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }},<br>{{ post.bio }}</a></li>
-      {% endfor %} -->
-    </ul>
-    <br>
-    <h2>Editorial Team</h2>
-    <ul class="list-2">
-      <li><a href="{{site.baseurl}}/leslie-carol-roberts/">Leslie Carol Roberts, Editorial Director</a></li>
-      <li><a href="{{site.baseurl}}/william-felker/">William Felker, Design Director</a></li>
-      <li><a href="{{site.baseurl}}/william-felker/">John Kim, Editorial Assistant</a></li>
-      <!-- {% for post in site.categories.masthead %}
-       <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }},<br>{{ post.bio }}</a></li>
-      {% endfor %} -->
     </ul>
   </div>
 </div>
