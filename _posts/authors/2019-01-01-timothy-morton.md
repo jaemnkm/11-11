@@ -15,3 +15,8 @@ In April 2019, the Architectural Ecologies Lab and the MFA Writing Program at Ca
 <br><br>
 
 Timothy Morton is Rita Shea Guffey Chair in English at Rice University. He has collaborated with Björk, Jennifer Walshe, Jeff Bridges, Olafur Eliasson, and Pharrell Williams. He co-wrote and appears in Living in the Future's Past, a 2018 film about global warming with Jeff Bridges. He is the author of Being Ecological (Penguin, 2018), Humankind: Solidarity with Nonhuman People (Verso, 2017), Dark Ecology: For a Logic of Future Coexistence (Columbia, 2016), Nothing: Three Inquiries in Buddhism (Chicago, 2015), Hyperobjects: Philosophy and Ecology after the End of the World (Minnesota, 2013), Realist Magic: Objects, Ontology, Causality (Open Humanities, 2013), The Ecological Thought (Harvard, 2010), Ecology without Nature (Harvard, 2007), eight other books and 200 essays on philosophy, ecology, literature, music, art, architecture, design and food. His work has been translated into 10 languages. In 2014, Morton gave the Wellek Lectures in Theory.
+
+<h3 style="padding: 5vh 0 1vh 0;">Fall 2019 Issue</h3>
+<ul class="collection-list">
+  <li><a href="{{site.baseurl}}/fullness-of-being/">Fullness of Being</a></li>
+</ul>

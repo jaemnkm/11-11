@@ -15,8 +15,6 @@
 
 ## In-Process
 
-- [ ] Indent paragraphs for Fullness of Being article
-- [ ] Indent paragraphs for Fullness of Being
 - [ ] Add links to Timothy Morton's work in bio
 - [ ] Add in second author Oliver Baez
 
@@ -40,3 +38,4 @@ https://www.oliverbaezbendorf.com/about
 - [x] Create Issue 1 page FALL 2018
 - [x] Create new Issue page FALL 2019 is Issue 2
 - [x] Make the single quote at start of the page for Fullness of Being into design element
+- [x] Indent paragraphs for Fullness of Being
