@@ -94,3 +94,41 @@ Make sure to be in the main project directory
 If there are issues related to public_suffix verison
 
 bundle exec jekyll serve
+
+## Creating New Pages
+
+### Create a new md file for the new page
+
+For example
+
+    2019-fall.md
+
+Make the correct changes
+
+    ---
+    layout: issue2
+    title: "2019 Fall"
+    editor: Letter from the Editor
+    permalink: /2019-fall/
+    description:
+    tag: 20191111
+    categories: 20191111
+    permalink: /2019-fall/
+    ---
+
+### Creating a new Issue for example
+
+First Create a new _layout
+
+for example for issue2
+
+    _layouts/issue2.html
+
+This is where you can start adding the urls for the pages
+
+        <li><h3 style="color:#111;"><a href="{{site.baseurl}}/timothy-morton/">Timothy Morton</a></h3>
+          <ul class="collection-list">
+            <li><a href="{{site.baseurl}}/fullness-of-being/">FULLNESS of BEING</a></li>
+          </ul>
+        </li>
+

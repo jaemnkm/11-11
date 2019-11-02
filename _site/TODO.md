@@ -8,11 +8,14 @@
 - [ ] Google Analytics Tags
 - [ ] Create hover drop down navigation for issues link
 - [ ] Change the header image to Neon Pink for 2019
+- [ ] Home Page New Landing Page
+- [ ] Change text for Letter from the Editor
+- [ ] Add 2019 Fall Layer to People Page
+- [ ] Add another Editorial Assistant to Editorial Team
 
 ## In-Process
 
 - [ ] Indent paragraphs for Fullness of Being article
-- [ ] Make the single quote at start of the page for Fullness of Being into design element
 - [ ] Indent paragraphs for Fullness of Being
 - [ ] Add links to Timothy Morton's work in bio
 - [ ] Add in second author Oliver Baez
@@ -36,3 +39,4 @@ https://www.oliverbaezbendorf.com/about
 - [x] Update Masthead
 - [x] Create Issue 1 page FALL 2018
 - [x] Create new Issue page FALL 2019 is Issue 2
+- [x] Make the single quote at start of the page for Fullness of Being into design element
