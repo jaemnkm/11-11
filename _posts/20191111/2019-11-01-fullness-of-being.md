@@ -249,3 +249,47 @@ Sugar is a thing that evokes both Nature and culture, civilization and barbarism
 Sagging suggests just letting gravity, aka spacetime, do its thing, a kind of existing in indifference. It’s not about stasis--it’s moving. Sagging is an abject movement that could indeed explode from the inside as slime as much as fire, like ectoplasm, the spectral body fluid; sagging is about physical being and time, “going out of shape” and getting old…Environmental creepiness is there in that racist southern gothic mood, half detected in “Harlem” and fully there in “Strange Fruit,” the weight of the past sagging or weighing like a nightmare. The futurality of things (the dream deferred) could sag in the toxic atmosphere of automation…the plane that can’t crash, the ship that can’t sink—didn’t we learn anything from the Titanic or from Titanic? Leonardo di Caprio would be pulped in a malfunctioning Max 8, that massively distributed Titanic. You can’t even make a romantic film about it. Is that progress? 
 </span>
 </p>
+
+<!-- End of page -->
+<!-- Start of Bottom Footer -->
+
+<nav class="nav justify-content-center" style="box-shadow: 0 2px 2px -2px rgba(0,0,0,0);">
+  <div class="nav-container">
+    <a href="{{ site.baseurl }}/">
+      <h2 class="nav-title">{{ empty }}</h2>
+    </a>
+    <ul style="position: relative">
+      <!-- <li><a href="{{ site.baseurl }}/">Issue</a></li> -->
+      <li class="nav-item"><a class="nav-link" href="{{ '/2018-fall' | prepend: site.baseurl }}">2018</a></li>
+      <li class="nav-item"><p>|</p></li>
+      <li class="nav-item"><a class="nav-link" href="{{ '/2019-fall' | prepend: site.baseurl }}">2019</a></li>
+      <li class="nav-item"><p>|</p></li>
+      <li class="nav-item"><a class="nav-link" href="{{ '/people' | prepend: site.baseurl }}">People</a></li>
+      <li class="nav-item"><p>|</p></li>
+      <li class="nav-item"><a class="nav-link" href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+  <section id="sec4">
+    <div class="row">
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/timothy-morton/">Timothy Morton</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/fullness-of-being/">FULLNESS of BEING</a></li>
+          </ul>
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/oliver-bendorf/">Oliver Baez Bendorf</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/cheers/">Cheers</a></li>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/someone-quiet-down-the-biodiverse/">Someone Quiet Down The Biodiverse “I”</a></li>
+          </ul>
+        </ul>
+      </div>
+    </div>
+  </section>
