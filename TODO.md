@@ -10,7 +10,6 @@
 
 ## In-Process
 
-- [ ] Add Gayle Romasanta Bio
 - [ ] Add Hannah Lamb-Vines Bio
 - [ ] Add John Kim Bio
 
@@ -48,3 +47,4 @@ https://www.oliverbaezbendorf.com/about
 - [x] Home Page New Landing Page
 - [x] Create hover drop down navigation for issues link
 - [x] Change the header image to Neon Pink for 2019
+- [x] Add Gayle Romasanta Bio
