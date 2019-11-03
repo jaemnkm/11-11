@@ -45,20 +45,24 @@
 
   <body>
 
-    <nav class="nav nav-section">
+    <nav class="nav nav-tabs" style="overflow: inherit;">
   <div class="nav-container">
     <a href="/">
       <h2 class="nav-title">11-11</h2>
     </a>
     <ul>
       <!-- <li><a href="/">Issue</a></li> -->
-      <li><a class="nav-link" href="/2018-fall">Issue1</a></li>
-      <li><p>|</p></li>
-      <li><a class="nav-link" href="/2019-fall">Issue2</a></li>
-      <li><p>|</p></li>
-      <li><a class="nav-link" href="/people">People</a></li>
-      <li><p>|</p></li>
-      <li><a class="nav-link" href="/about">About</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Year</a>
+        <div class="dropdown-menu">
+          <a class="nav-link dropdown-item" href="/2018-fall">2018</a>
+          <a class="nav-link dropdown-item" href="/2019-fall">2019</a>
+        </div>
+      </li>
+      <li class="nav-item"><p>|</p></li>
+      <li class="nav-item"><a class="nav-link" href="/people">People</a></li>
+      <li class="nav-item"><p>|</p></li>
+      <li class="nav-item"><a class="nav-link" href="/about">About</a></li>
     </ul>
   </div>
 </nav>
@@ -103,6 +107,24 @@ you is this: I didn’t write these poems—they <i>escaped</i> me.
     </div>
   </div>
 </div>
+
+<nav class="nav justify-content-center">
+  <div class="nav-container">
+    <a href="/">
+      <h2 class="nav-title"></h2>
+    </a>
+    <ul style="position: relative">
+      <!-- <li><a href="/">Issue</a></li> -->
+      <li class="nav-item"><a class="nav-link" href="/2018-fall">2018</a></li>
+      <li class="nav-item"><p>|</p></li>
+      <li class="nav-item"><a class="nav-link" href="/2019-fall">2019</a></li>
+      <li class="nav-item"><p>|</p></li>
+      <li class="nav-item"><a class="nav-link" href="/people">People</a></li>
+      <li class="nav-item"><p>|</p></li>
+      <li class="nav-item"><a class="nav-link" href="/about">About</a></li>
+    </ul>
+  </div>
+</nav>
 
 <!-- <div class="pagination">
   

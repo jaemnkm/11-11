@@ -6,9 +6,6 @@
 - [ ] Mobile Layout
 - [ ] HTTP Redirect to HTTPS
 - [ ] Google Analytics Tags
-- [ ] Create hover drop down navigation for issues link
-- [ ] Change the header image to Neon Pink for 2019
-- [ ] Home Page New Landing Page
 - [ ] Change text for Letter from the Editor
 
 ## In-Process
@@ -47,3 +44,7 @@ https://www.oliverbaezbendorf.com/about
 - [x] Add Youmna Chlala Bio
 - [x] Add another Editorial Assistant to Editorial Team: Hannah Lamb-Vines
 - [x] Add 2019 Fall Layer to People Page
+- [x] Add Footer Navigation
+- [x] Home Page New Landing Page
+- [x] Create hover drop down navigation for issues link
+- [x] Change the header image to Neon Pink for 2019
