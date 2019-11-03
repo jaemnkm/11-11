@@ -35,12 +35,12 @@ h1{
 }
 h2{
   font-family: Fabrik-Regular;
-  font-size: 24px;
+  font-size: 1.5em;
   color: #000000;
 
 }
 p{
-  font-size: 18px;
+  font-size: 1em;
   font-family: 'Work Sans', sans-serif;
 }
 .card{
@@ -52,7 +52,7 @@ p{
 
 .list-1{
   font-family: 'Work Sans';
-  font-size: 24px;
+  font-size: 1em;
   color: #000000;
   list-style-type: none;
   columns: 1;
@@ -62,7 +62,7 @@ p{
 
 .list-2{
   font-family:'Work Sans';
-  font-size: 24px;
+  font-size: 1em;
   color: #000000;
   list-style-type: none;
   columns: 2;
@@ -73,7 +73,7 @@ p{
 
 .list-3{
   font-family: 'Work Sans';
-  font-size: 24px;
+  font-size: 1em;
   color: #000000;
   list-style-type: none;
   columns: 3;
@@ -94,6 +94,7 @@ p{
   }
   h3{
     font-family: Fabrik-Regular;
+    font-size: 1.5em;
   }
   p{
     font-family: 'Work Sans';
@@ -106,7 +107,7 @@ p{
   }
   a{
     font-family: 'Work Sans';
-    font-size: 18px;
+    font-size: 1em;
     color: #35D1BF;
   }
 }
@@ -115,13 +116,14 @@ p{
   justify-content: center;
   h2{
     font-family: Fabrik-Regular;
-    font-size: 32px;
+    font-size: 1.5em;
     color: #000000;
     text-align: left;
     padding: 0 0 0 0;
   }
   h3{
     font-family: Fabrik-Regular;
+    font-size: 1.5em;
   }
   p{
     font-family: 'Work Sans';
@@ -133,7 +135,7 @@ p{
   }
   li{
     font-family: 'Work Sans';
-    font-size: 24px;
+    font-size: 1em;
     color: #000000;
     text-decoration: none;
     list-style-type: none;
@@ -158,10 +160,10 @@ a::after {
   content: '';
   width: 100%;
   height: 2px;
-  background: #FFEF2E;
+  background: #ff0dbf;
   bottom: 5px;
   transform: scale(0, 2);
-   transition: transform .6s;
+   transition: transform 2s;
   transform-origin: left top;
 }
 a:hover::after {
@@ -188,6 +190,7 @@ a:hover::after {
   }
   h3{
     font-family: Fabrik-Regular;
+    font-size: 1.5em;
   }
   p{
     font-family: 'Work Sans';
@@ -200,7 +203,7 @@ a:hover::after {
   }
   a{
     font-family: 'Work Sans';
-    font-size: 18px;
+    font-size: 1em;
     color: #35D1BF;
   }
 }
@@ -219,15 +222,15 @@ a:hover::after {
   h3{
     font-family: Fabrik-Regular;
     text-align: left;
-    font-size:20px;
+    font-size: 1.5em;
   }
 
   p{
-    font-size: 18px;
+    font-size: 1em;
   }
   li{
     font-family: 'Work Sans';
-    font-size: 24px;
+    font-size: 1em;
     color: #000000;
     text-decoration: none;
     padding-bottom: 1vh;
@@ -250,10 +253,10 @@ a:hover::after {
     content: '';
     width: 100%;
     height: 2px;
-    background: #FFEF2E;
+    background: #ff0dbf;
     bottom: 5px;
     transform: scale(0, 2);
-     transition: transform .6s;
+     transition: transform 2s;
     transform-origin: left top;
   }
   a:hover::after {
@@ -340,7 +343,7 @@ Issue
   }
   h3{
   font-family: Fabrik-Regular;
-  font-size: 24px;
+  font-size: 1.5em;
   color: #000000;
   text-align: left;
   padding-top: 5vh;
@@ -348,7 +351,7 @@ Issue
   }
   p{
     font-family: 'Work Sans';
-    font-size: 24px;
+    font-size: 1em;
     color: #000000;
     text-align: left;
     padding-left: 4vw;
@@ -359,7 +362,7 @@ Issue
   }
   a{
     font-family: 'Work Sans';
-    font-size: 18px;
+    font-size: 1em;
     color: #35D1BF;
   }
 }
@@ -375,15 +378,16 @@ Issue
   }
   h3{
     font-family: Fabrik-Bold;
+    font-size: 1.5em;
   }
   p{
     font-family: 'Work Sans';
-    font-size: 18px;
+    font-size: 1em;
   }
   li{
 
     font-family: 'Work Sans';
-    font-size: 24px;
+    font-size: 1em;
     color: #000000;
     text-decoration: none;
     list-style-type: none;
@@ -401,7 +405,7 @@ Issue
 
   }
   a{
-    font-size: 24px;
+    font-size: 1em;
     font-family: 'Work Sans';
     color: #000000;
     position: relative;
@@ -418,10 +422,10 @@ Issue
     content: '';
     width: 100%;
     height: 2px;
-    background: #FFEF2E;
+    background: #ff0dbf;
     bottom: 5px;
     transform: scale(0, 2);
-     transition: transform .6s;
+     transition: transform 2s;
     transform-origin: left top;
   }
   a:hover::after {

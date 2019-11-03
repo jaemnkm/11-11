@@ -5,7 +5,6 @@
 - [ ] Change Logo
 - [ ] Mobile Layout
 - [ ] HTTP Redirect to HTTPS
-- [ ] Google Analytics Tags
 - [ ] Change text for Letter from the Editor
 
 ## In-Process
@@ -48,3 +47,7 @@ https://www.oliverbaezbendorf.com/about
 - [x] Create hover drop down navigation for issues link
 - [x] Change the header image to Neon Pink for 2019
 - [x] Add Gayle Romasanta Bio
+- [x] Google Analytics Tags
+- [x] Change hover of links to 2019 neon pink
+- [x] Slow down hover State annotation for links
+- [x] Changed font size from pts and px to em.
