@@ -4,7 +4,7 @@ title: "Miranda Mellis"
 bio: ""
 image: M. Mellis.jpg
 tag: 20181111
-categories: authors2018
+categories: authors
 permalink: /miranda-mellis/
 ---
 

@@ -4,7 +4,7 @@ title: "Tongo Eisen-Martin"
 bio: ""
 image: tongo-eisen-martin.jpg
 tag: 20181111
-categories: authors2018
+categories: authors
 permalink: /tongo-eisen-martin/
 ---
 

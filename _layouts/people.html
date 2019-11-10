@@ -25,66 +25,24 @@ layout: default
   </div>
 </div>
 <div class="container page-section">
-    <div class="col-12 centered">
-        <h2>Masthead</h2>
-        <br>
-        <h2>Founding Editors</h2>
-        <ul class="list-2">
-          <li><a href="{{site.baseurl}}/youmna-chlala/">Youmna Chlala</a></li>
-          <li><a href="{{site.baseurl}}/gayle-romasanta/">Gayle Romasanta</a></li>
-          <!-- {% for post in site.categories.masthead %}
-           <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }},<br>{{ post.bio }}</a></li>
-          {% endfor %} -->
-        </ul>
-        <br>
-        <h2>Editor-in-Chief</h2>
-        <ul class="list-2">
-            <li><a href="{{site.baseurl}}/leslie-carol-roberts/">Leslie Carol Roberts, <span style="display: block;">MFA, Professor and Chair. California College of the Arts, MFA in Writing Program</span></a></li>
-          <!-- {% for post in site.categories.masthead %}
-           <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }},<br>{{ post.bio }}</a></li>
-          {% endfor %} -->
-        </ul>
-        <br>
-        <h2>Associate Editors</h2>
-        <ul class="list-2">
-            <li><a href="{{site.baseurl}}/leslie-carol-roberts/">X</a></li>
-            <li><a href="{{site.baseurl}}/leslie-carol-roberts/">X</a></li>
-          <!-- {% for post in site.categories.masthead %}
-           <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }},<br>{{ post.bio }}</a></li>
-          {% endfor %} -->
-        </ul>
-        <br>
-        <h2>Editorial Assistants</h2>
-        <ul class="list-2">
-          <li><a href="{{site.baseurl}}/william-felker/">John Kim</a></li>
-          <li><a href="{{site.baseurl}}/william-felker/">Hannah Lamb-Vines</a></li>
-          <!-- {% for post in site.categories.masthead %}
-           <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }},<br>{{ post.bio }}</a></li>
-          {% endfor %} -->
-        </ul>
-        <br>
-        <h2>Design Director</h2>
-        <ul class="list-2">
-          <li><a href="{{site.baseurl}}/william-felker/">William Felker</a></li>
-          <!-- {% for post in site.categories.masthead %}
-           <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }},<br>{{ post.bio }}</a></li>
-          {% endfor %} -->
-        </ul>
-      </div>
-    <div class="col-12 centered">
-      <h2>2019 Fall</h2>
-      <ul class="list-3">
-        {% for post in site.categories.authors2019 %}
-          <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-    <div class="col-12 centered">
+  <div class="col-12 space centered">
     <h2>2018 Fall</h2>
     <ul class="list-3">
-      {% for post in site.categories.authors2018 %}
+      {% for post in site.categories.authors %}
        <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
+    </ul>
+  </div>
+  <div class="col-12 space">
+    <h2>Masthead</h2>
+    <ul class="list-2">
+      <li><a href="{{site.baseurl}}/leslie-carol-roberts"/>Leslie Carol Roberts, Editorial Director</a></li>
+      <li><a href="{{site.baseurl}}/joseph-lease/">Joseph Lease, Editor</a></li>
+      <li><a href="{{site.baseurl}}/vanessa-kauffman-zimmerly/">Vanessa Kauffman Zimmerly, Editorial Manager</a></li>
+      <li><a href="{{site.baseurl}}/william-felker/">William Felker, Design Director</a></li>
+      <!-- {% for post in site.categories.masthead %}
+       <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }},<br>{{ post.bio }}</a></li>
+      {% endfor %} -->
     </ul>
   </div>
 </div>

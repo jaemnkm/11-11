@@ -4,7 +4,7 @@ title: "Jennifer Firestone"
 bio: ""
 image: jennifer-firestone.jpg
 tag: 20181111
-categories: authors2018
+categories: authors
 permalink: /jennifer-firestone/
 ---
 

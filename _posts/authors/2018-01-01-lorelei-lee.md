@@ -4,7 +4,7 @@ title: "Lorelei Lee"
 bio: ""
 image: Lorelei Lee.jpg
 tag: 20181111
-categories: authors2018
+categories: authors
 permalink: /lorelei-lee/
 ---
 

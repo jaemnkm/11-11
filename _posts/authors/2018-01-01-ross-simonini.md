@@ -4,7 +4,7 @@ title: "Ross Simonini"
 bio: ""
 image: Simonini.JPG
 tag: 20181111
-categories: authors2018
+categories: authors
 permalink: /ross-simonini/
 ---
 
