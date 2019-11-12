@@ -60,16 +60,16 @@ Unaccountably, I recalled the legend that Mahmud of Ghazni, the Sultan of the Gh
 Eventually we came to the new hospital in Mazar-i-Sharif, which was in a dilapidated state, with injured and dying men and women lying on the floor in the main corridor, some in bloodied clothes. I was relieved when the doctors sent me back to my guest house—where this story might have ended but for the diligence of my good-natured hostess. She suggested that I give my final lecture the next day at a technical university then visit the city of Balkh, near the Uzbek border, where the Sufi poet Rumi, or Mawlānā, as he is known to Persian speakers, was probably born, in 1207. I remember nothing about my lecture, not even its subject, and a photograph of me with the students and faculty brings nothing to mind beyond the fact that I was indeed there. My memory of the day begins later in the morning in a car with a poet-anesthesiologist stopping at a roundabout to pick up three more poets, including an expert on the history of Balkh, a center of Zoroastrianism, Buddhism, and then Islam. This city was destroyed twenty-one times, said the poet, and launched into colorful stories about its most famous conquerors, Alexander the Great, Genghis Khan, and Tamerlane. I cannot vouch for the veracity of his stories, since he chain-smoked cigarettes filled with hashish and my notes remain inscrutable. But I do remember the poets describing adventures here during the Taliban era. The local commander was a hard-drinking man who looked the other way when students came from Mazar-i-Sharif to party.
 <br>
 <br>
-There were soldiers on every corner when we toured the city garden, a blue-tiled mosque, the tomb of the first Afghan female poet, and a Zoroastrian shrine. Then we drove to the ruins of the _madrassa_ where Rumi’s father, an Islamic jurist and mystic, taught until the Mongol invasion put his family to flight—an odyssey that took them eventually to Konya, Turkey. The Turkish government had razed the houses surrounding the _madrassa_ to build a museum, and as we circled the half-dome my thoughts drifted to a symposium on Rumi, hosted by the International Writing Program in Konya, which took as its starting point lines translated by Coleman Barks:
+There were soldiers on every corner when we toured the city garden, a blue-tiled mosque, the tomb of the first Afghan female poet, and a Zoroastrian shrine. Then we drove to the ruins of the <i>madrassa</i> where Rumi’s father, an Islamic jurist and mystic, taught until the Mongol invasion put his family to flight—an odyssey that took them eventually to Konya, Turkey. The Turkish government had razed the houses surrounding the <i>madrassa</i> to build a museum, and as we circled the half-dome my thoughts drifted to a symposium on Rumi, hosted by the International Writing Program in Konya, which took as its starting point lines translated by Coleman Barks:
 
 <br>
 
 <br>Inside the Great Mystery that is,
-
+<br>
 we don’t really own anything.
-
+<br>
 What is this competition we feel then,
-
+<br>
 before we go, one at a time through the same gate?
 <br>
 <br>
