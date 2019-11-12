@@ -19,7 +19,17 @@ This story took place in northern Afghanistan, where I traveled in the spring of
 Our destination just outside the provincial capital of Samangan town was the hilltop Takht-i-Rustam, the Throne of Rustam, a mythical king who appears in Ferdowsi’s 10th-century epic, <i>Shahnameh: The Persian Book of Kings</i>. The throne was in fact a 4th-century Buddhist stupa carved from a single rock atop which lies a harmika in the form of a small square building, which once housed the Buddha’s relics; a trench twenty-five feet deep surrounds the stupa, and this was where monks would walk in mindfulness, circumnavigating the stupa, paying attention to their every step and breath. “When we practice walking meditation,” observes the Vietnamese Buddhist monk Ticht Nhat Hanh, “we arrive in each moment. When we enter the present moment deeply, our regrets and sorrows disappear, and we discover life with all its wonders.” This was what I tried to keep in mind on a warm spring morning as our group, which included several doctors, circled the stupa with families out for a stroll, watched over by Afghan Army soldiers.
 <br>
 <br>
-<img style="transform: rotate(90deg); display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/Christopher Merrill_Photo 2.jpg" alt="">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img style="transform: rotate(90deg); display: block; margin-left: auto; margin-right: auto; width:30em;" src="{{site.baseurl}}/assets/20181111/Christopher Merrill_Photo 2.jpg" alt="">
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 Samangan’s centrality to Buddhism, which diminished with the Arab Muslims’ arrival in the 7th century and ended before Ferdowsi wrote, is little known today to anyone beyond a small band of scholars and Buddhist adepts—which made it all the more interesting to me. Ferdowsi transformed the stupa into a throne for Rustam, “the preeminent hero of the legendary section of the poem,” in the words of Dick Davis, whose translation of <i>Shahnameh</i> was my introduction to the Persian national epic. The story goes that when Rustom’s horse vanished while he was napping one day in Samangan, a border region at the time, the local king promised to find it. Rustam thus spent the night, during which the king’s daughter, Tahmina, stole into his room to pledge her love to a man believed to possess godlike abilities. To win her hand, according to my traveling companions, Rustam had to complete three heroic tasks: pull a large tree out by its roots, leap across the abyss to the stupa (a distance of some twenty feet), and slay a monster. The marriage was consummated that night, and when Rustam’s horse was returned to him in the morning he left, never to see his wife again. In Ferdowsi’s telling, the stupa commemorates their marriage, which produced a son nine months later, whom Rustam was destined to kill before learning his identity. After the Taliban destroyed the Bamiyan Buddhas in 2001 Takht-i-Rustam became the most important Buddhist shrine in Afghanistan.
