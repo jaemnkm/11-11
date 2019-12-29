@@ -4,7 +4,7 @@ title: "Sheila Heti"
 bio: ""
 image: Heiti.jpg
 tag: 20181111
-categories: authors
+categories: authors2018
 permalink: /sheila-heti/
 ---
 

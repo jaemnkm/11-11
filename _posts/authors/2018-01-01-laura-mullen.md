@@ -4,7 +4,7 @@ title: "Laura Mullen"
 bio: ""
 image: Mullen.jpg
 tag: 20181111
-categories: authors
+categories: authors2018
 permalink: /laura-mullen/
 ---
 

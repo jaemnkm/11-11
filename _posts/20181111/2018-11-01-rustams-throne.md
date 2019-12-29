@@ -19,17 +19,7 @@ This story took place in northern Afghanistan, where I traveled in the spring of
 Our destination just outside the provincial capital of Samangan town was the hilltop Takht-i-Rustam, the Throne of Rustam, a mythical king who appears in Ferdowsi’s 10th-century epic, <i>Shahnameh: The Persian Book of Kings</i>. The throne was in fact a 4th-century Buddhist stupa carved from a single rock atop which lies a harmika in the form of a small square building, which once housed the Buddha’s relics; a trench twenty-five feet deep surrounds the stupa, and this was where monks would walk in mindfulness, circumnavigating the stupa, paying attention to their every step and breath. “When we practice walking meditation,” observes the Vietnamese Buddhist monk Ticht Nhat Hanh, “we arrive in each moment. When we enter the present moment deeply, our regrets and sorrows disappear, and we discover life with all its wonders.” This was what I tried to keep in mind on a warm spring morning as our group, which included several doctors, circled the stupa with families out for a stroll, watched over by Afghan Army soldiers.
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<img style="transform: rotate(90deg); display: block; margin-left: auto; margin-right: auto; width:30em;" src="{{site.baseurl}}/assets/20181111/Christopher Merrill_Photo 2.jpg" alt="">
-<br>
-<br>
-<br>
-<br>
+<img style="transform: rotate(90deg); display: block; margin-left: auto; margin-right: auto; width:30vw;" src="{{site.baseurl}}/assets/20181111/Christopher Merrill_Photo 2.jpg" alt="">
 <br>
 <br>
 Samangan’s centrality to Buddhism, which diminished with the Arab Muslims’ arrival in the 7th century and ended before Ferdowsi wrote, is little known today to anyone beyond a small band of scholars and Buddhist adepts—which made it all the more interesting to me. Ferdowsi transformed the stupa into a throne for Rustam, “the preeminent hero of the legendary section of the poem,” in the words of Dick Davis, whose translation of <i>Shahnameh</i> was my introduction to the Persian national epic. The story goes that when Rustom’s horse vanished while he was napping one day in Samangan, a border region at the time, the local king promised to find it. Rustam thus spent the night, during which the king’s daughter, Tahmina, stole into his room to pledge her love to a man believed to possess godlike abilities. To win her hand, according to my traveling companions, Rustam had to complete three heroic tasks: pull a large tree out by its roots, leap across the abyss to the stupa (a distance of some twenty feet), and slay a monster. The marriage was consummated that night, and when Rustam’s horse was returned to him in the morning he left, never to see his wife again. In Ferdowsi’s telling, the stupa commemorates their marriage, which produced a son nine months later, whom Rustam was destined to kill before learning his identity. After the Taliban destroyed the Bamiyan Buddhas in 2001 Takht-i-Rustam became the most important Buddhist shrine in Afghanistan.
@@ -60,16 +50,16 @@ Unaccountably, I recalled the legend that Mahmud of Ghazni, the Sultan of the Gh
 Eventually we came to the new hospital in Mazar-i-Sharif, which was in a dilapidated state, with injured and dying men and women lying on the floor in the main corridor, some in bloodied clothes. I was relieved when the doctors sent me back to my guest house—where this story might have ended but for the diligence of my good-natured hostess. She suggested that I give my final lecture the next day at a technical university then visit the city of Balkh, near the Uzbek border, where the Sufi poet Rumi, or Mawlānā, as he is known to Persian speakers, was probably born, in 1207. I remember nothing about my lecture, not even its subject, and a photograph of me with the students and faculty brings nothing to mind beyond the fact that I was indeed there. My memory of the day begins later in the morning in a car with a poet-anesthesiologist stopping at a roundabout to pick up three more poets, including an expert on the history of Balkh, a center of Zoroastrianism, Buddhism, and then Islam. This city was destroyed twenty-one times, said the poet, and launched into colorful stories about its most famous conquerors, Alexander the Great, Genghis Khan, and Tamerlane. I cannot vouch for the veracity of his stories, since he chain-smoked cigarettes filled with hashish and my notes remain inscrutable. But I do remember the poets describing adventures here during the Taliban era. The local commander was a hard-drinking man who looked the other way when students came from Mazar-i-Sharif to party.
 <br>
 <br>
-There were soldiers on every corner when we toured the city garden, a blue-tiled mosque, the tomb of the first Afghan female poet, and a Zoroastrian shrine. Then we drove to the ruins of the <i>madrassa</i> where Rumi’s father, an Islamic jurist and mystic, taught until the Mongol invasion put his family to flight—an odyssey that took them eventually to Konya, Turkey. The Turkish government had razed the houses surrounding the <i>madrassa</i> to build a museum, and as we circled the half-dome my thoughts drifted to a symposium on Rumi, hosted by the International Writing Program in Konya, which took as its starting point lines translated by Coleman Barks:
+There were soldiers on every corner when we toured the city garden, a blue-tiled mosque, the tomb of the first Afghan female poet, and a Zoroastrian shrine. Then we drove to the ruins of the _madrassa_ where Rumi’s father, an Islamic jurist and mystic, taught until the Mongol invasion put his family to flight—an odyssey that took them eventually to Konya, Turkey. The Turkish government had razed the houses surrounding the _madrassa_ to build a museum, and as we circled the half-dome my thoughts drifted to a symposium on Rumi, hosted by the International Writing Program in Konya, which took as its starting point lines translated by Coleman Barks:
 
 <br>
 
 <br>Inside the Great Mystery that is,
-<br>
+
 we don’t really own anything.
-<br>
+
 What is this competition we feel then,
-<br>
+
 before we go, one at a time through the same gate?
 <br>
 <br>
@@ -110,3 +100,162 @@ The history of yesterday is repeated again.
 <br>
 We were following the route taken by the Northern Alliance and U.S Army Special Forces, by foot, on horseback, and in trucks, in the first major offensive of the Afghanistan War (later celebrated in the feature film, <i>The Twelve</i>), stopping on the outskirts of Mazar-i-Sharif to stretch our legs and photograph, surreptitiously, Qali-i-Jangi, a nineteenth-century military garrison used after the city’s liberation to house Al Qaeda and Taliban prisoners of war. This was the site of an uprising in November 2001, which led to the deaths of nearly 500 prisoners and a CIA contractor named Johnny Spann—the first American casualty in what has come to be known as the Forever War. As the poet observed: “The history of yesterday is repeated again.”
 </p>
+
+<!-- End of page -->
+<!-- Start of Bottom Footer -->
+
+<nav class="nav justify-content-center" style="box-shadow: 0 2px 2px -2px rgba(0,0,0,0);">
+  <div class="nav-container">
+    <a href="{{ site.baseurl }}/">
+      <h2 class="nav-title">{{ empty }}</h2>
+    </a>
+    <ul style="position: relative">
+      <!-- <li><a href="{{ site.baseurl }}/">Issue</a></li> -->
+      <li class="nav-item"><a class="nav-link" href="{{ '/2018-fall' | prepend: site.baseurl }}">2018</a></li>
+      <li class="nav-item"><p>|</p></li>
+      <li class="nav-item"><a class="nav-link" href="{{ '/2019-fall' | prepend: site.baseurl }}">2019</a></li>
+      <li class="nav-item"><p>|</p></li>
+      <li class="nav-item"><a class="nav-link" href="{{ '/people' | prepend: site.baseurl }}">People</a></li>
+      <li class="nav-item"><p>|</p></li>
+      <li class="nav-item"><a class="nav-link" href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="container">
+
+  <section id="sec1">
+    <div class="row">
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/dodie-bellamy/">Dodie Bellamy</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/The-Violence-of-the-Image/">The Violence of the Image</a></li>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/Stuff-My-Stalker-Has-Ordered-for-Me-Online/">Stuff My Stalker Has Ordered for Me Online</a></li>
+          </ul>
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/may-lee-chai/">May-lee Chai</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/White-Rabbits/">White Rabbits</a></li>
+          </ul>
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/tongo-eisen-martin/">Tongo Eisen-Martin</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/Fish-With-Ambition-to-Become-the-River/">Fish With Ambition to Become the River</a></li>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/Two-Nights-on-16th-Street/">Two Nights on 16th Street</a></li>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/Many-Does-To-Go-Or-Turns-The-Pen/">Many Doses To Go Or Turns the Pen</a></li>
+          </ul>
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/jennifer-firestone/">Jennifer Firestone</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/Selections-from-Ten/">Selections from Ten</a></li>
+          </ul>
+        </ul>
+      </div>
+    </div>
+  </section>
+  <section id="sec2">
+    <div class="row">
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/sheila-heti/">Sheila Heti</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/Literature-Against-Anxiety/">Literature Against Anxiety</a></li>
+          </ul>
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/lorelei-lee/">Lorelei Lee</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/Leaving-San-Francisco/">Leaving San Francisco</a></li>
+          </ul>
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/miranda-mellis/">Miranda Mellis</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/The-Imperceptible-Utopia/">The Imperceptible Utopia</a></li>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/To-Not-Become-a-Pillar-of-Salt/">To Not Become a Pillar of Salt</a></li>
+          </ul>
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/christopher-merrill/">Christopher Merrill</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/Rustams-Throne/">Rustam's Throne</a></li>
+          </ul>
+        </ul>
+      </div>
+    </div>
+  </section>
+  <section id="sec3">
+    <div class="row">
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/katherine-min/">Katherine Min</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/On-Being-a-Sprinter/">On Being a Sprinter</a></li>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/On-Being-Humpty-Dumpty/">On Being Humpty Dumpty</a></li>
+          </ul>
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/laura-mullen/">Laura Mullen</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/Scream/">Scream</a></li>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/Elsie-Disclaimer/">Elsie (Disclaimer)</a></li>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/Elsie-The-Coward/">Elsie The Coward</a></li>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/Elsie-Doesnt-Mind/">Elsie Doesn't Mind</a></li>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/El-C-the-C/">El C the C</a></li>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/The-Imaginary-Begins/">The Imaginary Begins</a></li>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/C-Section/">C Section</a></li>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/Queen-of-Muses/">Queen of Muses</a></li>
+          </ul>
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/ron-silliman/">Ron Silliman</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/from-Parrot-Eyes-Lust/">from Parrot Eyes Lust</a></li>
+          </ul>
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/ross-simonini/">Ross Simonini</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/Interview-with-Paul-McCarthy/">Legs Spread, Mask On:  Reflections on Snow White, Deleuze, and Late Capitalism</a></li>
+          </ul>
+        </ul>
+      </div>
+    </div>
+  </section>
+  <section id="sec4">
+    <div class="row">
+      <div class="col-md-3">
+        <ul>
+          <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/john-yau/">John Yau</a></li>
+          <ul>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/The-Presidents-Second-Telegram/">The President's Second Telegram</a></li>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/The-Presidents-Telegram-3/">The President's Telegram (3)</a></li>
+            <li style="font-family: 'Work Sans','Segoe UI',Helvetica,Arial,sans-serif;list-style-type: none;"><a style="color:#000;" href="{{site.baseurl}}/The-Congressmans-Explination/">The Congressman's Explanation</a></li>
+          </ul>
+        </ul>
+      </div>
+    </div>
+  </section>
+</div>
